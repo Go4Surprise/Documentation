@@ -48,7 +48,6 @@ Este acuerdo establece los términos y condiciones para la participación en el 
 - La versión entregada incluirá todas las funcionalidades planificadas para el sprint en cuestión, sin perjuicio de posibles cambios de última hora debidamente comunicados y justificados. Se podrá acceder a dicha plataforma a través del enlace proporcionado. También se enviará una **Guía en cada Sprint** para saber qué es necesario probar.
 - Se facilitará un **formulario de feedback** en el que los usuarios podrán reportar errores, sugerencias y mejoras.
 - Se respetará la privacidad y confidencialidad de los usuarios, sin almacenar datos personales fuera de los requeridos para la prueba y el formulario de feedback.
-- Los usuarios piloto que completen satisfactoriamente las pruebas y el feedback recibirán **un 50% de descuento en sus primeros 5 pedidos tras el lanzamiento oficial**.
 
 ### **Compromiso de los Usuarios Piloto**:
 
