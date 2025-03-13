@@ -1,5 +1,5 @@
 <div align="right">
-    <img src="logo_US.png" alt="Go4Surprise Logo" width="100">
+    <img src="../logo_US.png" alt="Go4Surprise Logo" width="100">
 </div>
 <div align="center">
 
@@ -9,7 +9,7 @@
 
 ### Sprint 1
 
-<img src="logo_Go4Surprise.png" alt="Go4Surprise Logo" width="200">
+<img src="../logo_Go4Surprise.png" alt="Go4Surprise Logo" width="200">
 
 </div>
 
