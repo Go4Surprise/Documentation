@@ -93,11 +93,11 @@ José Manuel Miret Martín - 12/03/2024
 
 Ramón Vergara Garrido  - 12/03/2024
 
-**Por los Usuarios Piloto:**  
+**Por los Usuarios Piloto(asignados en clase):**  
 
 ![Firma Ignacio](firmas/firmaIgnacioBlanquero.jpg)
 
-Ignacio Blanquero - 12/03/2024
+Ignacio Blanquero Blanco - 12/03/2024
 
 ![Firma Yao Jun](firmas/firmaYaoJun.jpg)
 
@@ -105,8 +105,20 @@ Yao Jun - 12/03/2024
 
 ![Firma Isabel](firmas/firmaIsabel.jpg)
 
-Isabel - 12/03/2024
+Isabel Cantero Corchero - 12/03/2024
 
 ![Firma Alvaro](firmas/firmaAlvaroMartin.jpg)
 
-Alvaro Martin - 12/03/2024
+Álvaro Martín Muñoz - 12/03/2024
+
+![Firma Guadalupe](firmas/firmaGuadalupe.jpg)
+
+Guadalupe Ridruejo Pineda - 12/03/2024
+
+![Firma Manuel](firmas/firmaManuel.jpg)
+
+Manuel Pérez Velez - 12/03/2024
+
+![Firma Pablo](firmas/firmaPablo.jpg)
+
+Pablo Fernández Pérez - 12/03/2024
