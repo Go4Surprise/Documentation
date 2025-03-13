@@ -71,6 +71,42 @@ Este acuerdo establece los términos y condiciones para la participación en el 
 
 ### **Firmas:**
 
-**Por Go4Surprise:**  
+**Por Go4Surprise:** 
+
+![Firma David](firmas\firmaDavidDelgado.png)
+
+David Delgado Pallares - 12/03/2024
+
+![Firma Paula](firmas\firmaPaulaSanchez.jpg)
+
+Paula Sánchez Gómez - 12/03/2024
+
+![Firma Virginia](firmas\firmaVirginiaMesa.png)
+
+Virginia Mesa Pérez - 12/03/2024
+
+![Firma Jose Manuel](firmas\firmaJoseManuel.png)
+
+José Manuel Miret Martín - 12/03/2024
+
+![Firma Ramon](firmas\firmaRamon.png)
+
+Ramón Vergara Garrido  - 12/03/2024
 
 **Por los Usuarios Piloto:**  
+
+![Firma Ignacio](firmas\firmaIgnacioBlanquero.jpg)
+
+Ignacio Blanquero - 12/03/2024
+
+![Firma Yao Jun](firmas\firmaYaoJun.jpg)
+
+Yao Jun - 12/03/2024
+
+![Firma Isabel](firmas\firmaIsabel.jpg)
+
+Isabel - 12/03/2024
+
+![Firma Alvaro](firmas\firmaAlvaroMartin.jpg)
+
+Alvaro Martin - 12/03/2024
