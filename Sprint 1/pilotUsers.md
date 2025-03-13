@@ -1,20 +1,42 @@
-# Usuarios Pilotos
+<div align="right">
+    <img src="../logo_US.png" alt="Go4Surprise Logo" width="100">
+</div>
+<div align="center">
 
-Creado por: David Delgado Pallares
-Fecha de creación: 13 de marzo de 2025 22:59
-Categoría: Investigación 🧑‍🔬
-Fecha de última actualización: 13 de marzo de 2025 23:32
-Creado por 1: David Delgado Pallares
-Entregable: Sprint 1
+# Grupo 10 - Go4Surprise
 
-![imagen.png](imagen.png)
+## 10 - pilotUsers
 
-<aside>
-ISPP - Grupo 10
+### Sprint 1
 
-Go4Surprise
+<img src="../logo_Go4Surprise.png" alt="Go4Surprise Logo" width="200">
 
-</aside>
+</div>
+
+**Made by:** María Barrancos
+
+### Integrantes
+<div style="columns: 2; -webkit-columns: 2; -moz-columns: 2;">
+
+- Mohamed Abouri  
+- Mario Astudillo Fierro  
+- María Barrancos Márquez  
+- Rafael Cabello Ranea  
+- Manuel Chica López  
+- David Delgado Pallares  
+- José Gonzalo Domínguez Moreno  
+- Virginia Mesa Pérez  
+- José Manuel Miret Martín  
+- Alejandro Nicolade Bravo  
+- Manuel Palacios Pineda  
+- Pablo Rodríguez Sánchez  
+- Rubén Romero Sánchez  
+- Paula Sánchez Gómez  
+- Ramón Vergara Garrido  
+
+</div>
+
+---
 
 # Usuarios Pilotos
 
