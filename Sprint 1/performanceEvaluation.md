@@ -181,6 +181,15 @@ En este primer Sprint del proyecto, mi contribución ha sido principalmente gest
 
 
 **Domínguez, Gonzalo:**
+En este primer Sprint, mi participación ha abarcado diversas áreas clave del proyecto.
+
+- **Creación y edición del video para nuestra demo.** Me encargué de la producción del video de presentación, asegurando que comunicara de manera clara y dinámica el valor de nuestra plataforma.
+- **Mantenimiento de la base de datos.** Colaboré en la gestión y actualización de la base de datos, asegurando que la estructura y la información almacenada estuvieran alineadas con los requerimientos del proyecto.
+- **Creación de la pantalla de usuario en backend y frontend.** Desarrollé la pantalla de usuario tanto en el backend como en el frontend, asegurándome de que la interfaz fuera intuitiva y funcional, además de integrar correctamente la API.
+- **Colaboración en el registro de usuario e inicio de sesión**.
+- **Modificación del killer opening** . Ajusté el inicio de nuestra presentación para que fuera más impactante y captara mejor la atención del público.
+- **Preparación de la presentación**: Además, me encargué de la parte correspondiente de mi trabajo dentro de la presentación del equipo.
+
 
 **Mesa, Virginia:**
 En este primer Sprint del proyecto, mi contribución ha sido mayoritariamente en tareas de frontend, pero tambien he realizado tareas de backend y documentación.
@@ -224,7 +233,7 @@ Durante el primer sprint, he trabajado en varias tareas junto a mis compañeros.
 La contribución en este sprint ha sido principalmente el desarrollo tanto de backend como de frontend del cuestionario de preferencias de los usuarios de Go4Surprise para poder conocer sus gustos, también he participado en el login y sign up para poner algunas restricciones sobre el cuestionario. También he realizado una pequeña búsqueda para encontrar usuarios pilotos y he realizado la gestión de estos usuarios encontrados (como ayudar a algunos de dichos usuarios a comprender algunas dudas que tengan de la aplicación), además de hacer la Guía (para que tuviesen información sobre la app y supiesen lo que tenían que probar) y de realizar el Commitment Agreement. También, he realizado la planificación del sprint 2 y 3, la sprint retrospective y he definido los roles del equipo. Además de la asistencia y participación en la totalidad de reuniones y clases, tomando apuntes sobre los feedbacks que da el profesorado a los grupos y colaborando en elaborar las presentaciones semanales. 
 
 **Vergara, Ramón:**
-
+Durante este sprint, junto a mi compañero Manuel, desarrollamos la primera versión del cuestionario de preferencias en el backend. Junto a Pablo, implementamos tanto el backend como el frontend de la página para realizar una reserva. Además, brindé apoyo a mis compañeros María y Rubén en la creación de la vista para listar las reservas. Por último, elaboré una guía para los usuarios pilotos, proporcionando instrucciones claras para facilitar su experiencia con el sistema. En este sprint, cumplí con mis tareas y mis horas dentro del tiempo de trabajo establecido.
 
 ### Sprint 2 (#S2)  
 **Abouri, Mohamed:**
