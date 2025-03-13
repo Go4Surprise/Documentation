@@ -91,6 +91,15 @@ Con la finalización del Sprint 1 y la primera implementación de código comple
 
 El uso de IA en este sprint ha sido clave no solo para la implementación inicial del código, sino también para la optimización, resolución de bugs y mejoras continuas en el proyecto. A medida que avanzamos en el desarrollo, es fundamental seguir refinando su aplicación para maximizar su impacto positivo en la calidad y eficiencia del trabajo del equipo.
 
+
+## 5. Enlaces a consultas de IA
+
+| Miembro del equipo | Tema de la consulta | Enlace a conversación |
+| --- | --- | --- |
+| Manuel Palacios | Casos de uso matchmaking | https://chatgpt.com/share/67d3459a-fe14-8011-b21f-fda093cc0340 |
+| Manuel Palacios | Métricas de rendimiento | https://chatgpt.com/share/67d345fd-b32c-8011-9f8c-1a4ec52392b8 |
+| Manuel Palacios | Añadir un vídeo en markdown | https://chatgpt.com/share/67d34617-9e2c-8011-b8a1-c02297bb0063 |
+
 ---
 
 [Enlace a la base de conocimiento](https://bcc2425.vercel.app/docs/grupos-tarde/Grupo%2010)
