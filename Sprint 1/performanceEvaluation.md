@@ -84,6 +84,7 @@ Se repartió una encuesta anónima a todos los integrantes del grupo donde tení
 ---
 
 ## 2. Detalles de contribución individual
+Esta evaluación se ha llevado acabo teniendo en cuenta la aportación individual a la [base de conocimiento](https://www.notion.so/invite/8285a54ded1a30084e54315c036815825851c4e6), al [repositorio de código](git@github.com:Go4Surprise/Go4Surprise), y al [repositorio de documentación](https://github.com/Go4Surprise/Documentation)
 
 ### 2.1. Devising a Project (#DP)  
 
