@@ -6,7 +6,7 @@
 
 # Grupo 10 - Go4Surprise
 
-## 10 - Revision
+## 10 - Guía de Revisión del Software
 
 ### Sprint 1
 
@@ -36,6 +36,14 @@
 </div>
 
 ---
+
+## Contribución al documento
+
+| Fecha | Miembro del equipo | Contribución |
+| --- | --- |
+| 12/03/2025 | Rubén Romero Sánchez | Requisitos potenciales para usar el sistema |
+| 12/03/2025  | Manuel Palacios Pineda | Resumen del documento, Casos de uso y Datos necesarios para revisión |
+| 13/03/2025  | Manuel Palacios Pineda | Tabla de contribuciones, cambio en el nombre del documento y más datos necesarios |
 
 ## Resumen del documento
 
@@ -72,6 +80,8 @@ En este apartado se presenta una tabla con todos los datos necesarios para lleva
 | Url de la plataforma desplegada  | https://go4-frontend-dot-ispp-2425-g10.ew.r.appspot.com/ |
 | Url del repositorio de Github de código | https://github.com/Go4Surprise/Go4Surprise |
 | Url del repositorio de Github de documentación  | https://github.com/Go4Surprise/Documentation |
+| Url del la herramienta de gestión del tiempo |  |
+| Credenciales de acceso a la herramienta de gestión del tiempo |  |
 
 
 ## 3. Requisitos potenciales para usar el sistema
