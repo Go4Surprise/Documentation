@@ -61,22 +61,22 @@ En este documento se recoge la contribución individual de cada miembro del equi
 **Agreed Individual Performance Evaluation**
 | Estudiante        | #DP1       | #S1      | #S2       | #S3       | #PPL      | #WPL      | Total     | Weight    |
 |-----------------  |------------|----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| Abouri, Mohamed   | 9.33       |          |           |           |           |           |           |           |
-| Astudillo, Mario  | 9.75       |          |           |           |           |           |           |           |
-| Barrancos, María  | 9.25       |          |           |           |           |           |           |           |
-| Cabello, Rafael   | 9.67       |          |           |           |           |           |           |           |
-| Chica, Manuel     | 9.33       |          |           |           |           |           |           |           |
-| Delgado, David    | 9.75       |          |           |           |           |           |           |           |
-| Domínguez, Gonzalo| 9.42       |          |           |           |           |           |           |           |
-| Mesa, Virginia    | 9.83       |          |           |           |           |           |           |           |
-| Miret, José Manuel| 9.92       |          |           |           |           |           |           |           |
-| Nicolade, Alejandro| 9.50      |          |           |           |           |           |           |           |
-| Palacios, Manuel  | 9.75       |          |           |           |           |           |           |           |
-| Rodríguez, Pablo  | 9.92       |          |           |           |           |           |           |           |
-| Romero, Rubén     | 9.59       |          |           |           |           |           |           |           |
-| Sánchez, Paula    | 9.83       |          |           |           |           |           |           |           |
-| Vergara, Ramón    | 9.33       |          |           |           |           |           |           |           |
-| **Total**         | **144.34** |          |           |           |           |           |           |           |
+| Abouri, Mohamed   | 9.33       |   8.5      |           |           |           |           |           |           |
+| Astudillo, Mario  | 9.75       |      8.64    |           |           |           |           |           |           |
+| Barrancos, María  | 9.25       |    7.21      |           |           |           |           |           |           |
+| Cabello, Rafael   | 9.67       |     8.57     |           |           |           |           |           |           |
+| Chica, Manuel     | 9.33       |     4.86     |           |           |           |           |           |           |
+| Delgado, David    | 9.75       |     9.64     |           |           |           |           |           |           |
+| Domínguez, Gonzalo| 9.42       |     8.29     |           |           |           |           |           |           |
+| Mesa, Virginia    | 9.83       |     9.29     |           |           |           |           |           |           |
+| Miret, José Manuel| 9.92       |     9.93     |           |           |           |           |           |           |
+| Nicolade, Alejandro| 9.50      |     8.57     |           |           |           |           |           |           |
+| Palacios, Manuel  | 9.75       |     8.71     |           |           |           |           |           |           |
+| Rodríguez, Pablo  | 9.92       |     9.71     |           |           |           |           |           |           |
+| Romero, Rubén     | 9.59       |     8.29     |           |           |           |           |           |           |
+| Sánchez, Paula    | 9.83       |      9.57    |           |           |           |           |           |           |
+| Vergara, Ramón    | 9.33       |      9.00    |           |           |           |           |           |           |
+| **Total**         | **144.34** |  **128.78**        |           |           |           |           |           |           |
 
 ### 1.2. Cálculo  
 Se repartió una encuesta anónima a todos los integrantes del grupo donde tenían que evaluar del 1 al 10 a sus compañeros. Estos resultados son la media de sus calificaciones dadas por otros compañeros.
@@ -142,19 +142,44 @@ En este sprint, me he encargado de diseñar el logotipo y definir toda la identi
 ### Sprint 1 (#S1)  
 **Abouri, Mohamed:**
 
+Mis contribuciones para este sprint han sido principalmente arreglar los fallos que estaban en el login, y también crear el cuestionario de preferencias que rellenan los nuevos usuarios después de registrarse. Éste cuestionario ha sido luego mejorado por otros compañeros. También, he ayudado en el arreglo de la funcionalidad del listado de reservas y he empezado la creación de la vista de reseñas en el Frontend. Adicionalmente, he ayudado en la revisión de las nuevas funcionalidades y he asistido y participado en la totalidad de las clases y reuniones.
+
 **Astudillo, Mario:**
+
+Mi desempeño para este sprint en la primera semana fue buscar los problemas encontrados hasta esa altura del proyecto, así como un poco la revisión de las gestión de riesgos y la organización de la presentación. Para la segunda semana me he seguido encargando de los problemas encontrados, así como de la situación financiera actual de nuestro proyecto y su gestion a corto medio plazo. Finalmente he estado también con la gestión de la presentación. Como comentario aparte he tenido estas semanas problemas de salud que he reportado a nuestro Project Manager donde le paso los documentos donde lo respalda
 
 **Barrancos, María:**
 
+- Análisis y desarrollo de la implementación del módulo "Mis Reservas" en ambos frentes, **frontend y backend**, incluyendo la resolución de pequeños conflictos en el código para garantizar su correcto funcionamiento.
+
+- Desarrollo del **informe de uso de la IA**, documentando la evolución y el impacto de su utilización a lo largo del sprint.
+
+- Participación activa en **reuniones de organización y presentación**, contribuyendo con ideas y mejoras para la planificación y ejecución del proyecto
+
 **Cabello, Rafael:**
+
+En este sprint mis contribuciones han consistido en la inicialización del backend para formalizar la api e incluir los primeros endpoints, principalmente en la parte de la creación de las reservas, además de arreglar y ajustar según avanzaba el desarrollo y surgían errores. También me he encargado del despliegue de la aplicación, teniendo que realizar adaptaciones para su correcto funcionamiento en el entorno. Finalmente, he asistido a todas las clases y he asistido a las reuniones.
 
 **Chica, Manuel:**
 
+Intencionalmente en blanco
+
 **Delgado, David:**
+
 
 **Domínguez, Gonzalo:**
 
 **Mesa, Virginia:**
+
+En este primer Sprint del proyecto, mi contribución ha sido mayoritariamente en tareas de frontend, pero tambien he realizado tareas de backend y documentación.
+
+En las tareas de frontend, me he encargado de la página inicial(index), de la página de inicio de sesión(loginScreen) , la página de registro(RegisterScreen) y la página de perfil de usuario(Profile). En las cuales he tenido cooperación con compañeros como Gonzalo y David. 
+
+Por otra parte he tenido que tocar backend para el perfil de usuario , creando las funciones para editar el perfil, cambiar la contraseña, cerrar sesión y eliminar cuentas.
+
+Respecto al tema de usuarios piloto, he buscado numerosos usuarios piloto. 
+
+Finalmente en el tema de documentación, he pasado a md el commitment agreement, he colaborado en la presentación y he revisado y completado el análisis de costes.
 
 **Miret, Jose Manuel:**
 
@@ -162,7 +187,16 @@ Mis contribuciones para este primer sprint han sido: Organizar al equipo ejercie
 
 **Nicolade, Alejandro:**
 
+Mi contribución en el sprint 1 se ha basado prácticamente en:
+
+- Por una parte, un re-estructuración inicial del modelo de datos en backend por fallos iniciales. Básicamente división de entidades que abarcaban mucho y tenían muchos atributos y que eran divisibles en dos entidades relacionadas
+- Y por otro lado, un rediseño de los templates del frontend desde las páginas de Login, Register hasta la HomeScreen y MyBookings.
+
+A parte de participación activa en las reuniones proponiendo ideas claves para el desarrollo de la aplicación.
+
 **Palacios, Manuel:**
+
+Mi contribución en el Sprint 1 del proyecto ha sido crear una primera versión del backend para gestionar las preferencias de los usuarios, analizar el rendimiento de los miembros del equipo durante el primer sprint y crear una guía detallada de cómo revisar nuestro software acompañada de los datos necesarios para dicha revisión. Para finalizar, he asistido a todas las clases y reuniones que ha organizado el equipo.
 
 **Rodrígez, Pablo:**
 Mi contribución en este primer sprint del desarrollo se ha basado en los siguientes puntos:
@@ -175,9 +209,11 @@ Mi contribución en este primer sprint del desarrollo se ha basado en los siguie
 - **Asistencia y participación** en la totalidad de las clases y reuniones
 
 **Romero, Rubén:**
+
 Durante el primer sprint, he trabajado en varias tareas junto a mis compañeros. En primer lugar, he participado en la elaboración del cuestionario que aparece al crear una cuenta, una tarea que he desarrollado en colaboración con Jose Manuel y Paula. Además, junto a mi compañera María, he trabajado en la funcionalidad para listar las reservas de las experiencias que han sido reservadas, asegurándonos de que se muestre correctamente la información correspondiente. Por último, he colaborado con Manuel Delgado en la redacción del documento revision.md, donde hemos recogido los casos de uso, los datos necesarios para la revisión y los requisitos para usar el sistema.
 
 **Sánchez Gómez, Paula:**
+
 La contribución en este sprint ha sido principalmente el desarrollo tanto de backend como de frontend del cuestionario de preferencias de los usuarios de Go4Surprise para poder conocer sus gustos, también he participado en el login y sign up para poner algunas restricciones sobre el cuestionario. También he realizado una pequeña búsqueda para encontrar usuarios pilotos y he realizado la gestión de estos usuarios encontrados (como ayudar a algunos de dichos usuarios a comprender algunas dudas que tengan de la aplicación), además de hacer la Guía (para que tuviesen información sobre la app y supiesen lo que tenían que probar) y de realizar el Commitment Agreement. También, he realizado la planificación del sprint 2 y 3, la sprint retrospective y he definido los roles del equipo. Además de la asistencia y participación en la totalidad de reuniones y clases, tomando apuntes sobre los feedbacks que da el profesorado a los grupos y colaborando en elaborar las presentaciones semanales. 
 
 **Vergara, Ramón:**
