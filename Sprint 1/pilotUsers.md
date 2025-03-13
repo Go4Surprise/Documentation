@@ -13,7 +13,7 @@
 
 </div>
 
-**Made by:** María Barrancos
+**Made by:** David Delgado
 
 ### Integrantes
 <div style="columns: 2; -webkit-columns: 2; -moz-columns: 2;">
