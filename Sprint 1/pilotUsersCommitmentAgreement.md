@@ -5,7 +5,7 @@
 
 # Grupo 10 - Go4Surprise
 
-## 10 - KBreport
+## 10 - Pilot Users Commitment Agreement
 
 ### Acuerdo de compromiso con usuarios pilotos
 

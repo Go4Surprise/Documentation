@@ -40,7 +40,7 @@
 ## Contribución al documento
 
 | Fecha | Miembro del equipo | Contribución |
-| --- | --- |
+| --- | --- | --- |
 | 12/03/2025 | Rubén Romero Sánchez | Requisitos potenciales para usar el sistema |
 | 12/03/2025  | Manuel Palacios Pineda | Resumen del documento, Casos de uso y Datos necesarios para revisión |
 | 13/03/2025  | Manuel Palacios Pineda | Tabla de contribuciones, cambio en el nombre del documento y más datos necesarios |
