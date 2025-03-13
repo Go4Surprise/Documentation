@@ -85,3 +85,5 @@ Para nosotros es esencial registrar todos estos detalles de los feedbacks en nue
 
 
 [Enlace a la base de conocimiento](https://bcc2425.vercel.app/docs/grupos-tarde/Grupo%2010)
+
+[Enlace del Github](https://github.com/ISPP-2425/BCC)
