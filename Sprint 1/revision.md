@@ -91,8 +91,10 @@ En este apartado se presenta una tabla con todos los datos necesarios para lleva
 | Url de la plataforma desplegada  | https://go4-frontend-dot-ispp-2425-g10.ew.r.appspot.com/ |
 | Url del repositorio de Github de código | https://github.com/Go4Surprise/Go4Surprise |
 | Url del repositorio de Github de documentación  | https://github.com/Go4Surprise/Documentation |
-| Url del la herramienta de gestión del tiempo |  |
-| Credenciales de acceso a la herramienta de gestión del tiempo |  |
+| Url del la herramienta de gestión del tiempo | https://app.timecamp.com/ |
+| Guía de acceso a los tiempos | Una vez identificado, navegar a "Projects" en la barra lateral izquierda. Una vez en Projects, pulsar en el icono "Time Report" que hay en la sección de "ISPP". Se abrirá una nueva pestaña donde podrá personalizar el rango de fechas y las personas de las que quiere ver el tiempo registrado. Navegando hacia abajo podrá ver el tiempo por persona pinchando en "People" |
+| E-mail de acceso a la herramienta de gestión del tiempo | go4surprise.ispp@gmail.com |
+| Contraseña de acceso a la herramienta de gestión del tiempo | P4bl0-4pru3b4n0s |
 
 
 ## 3. Requisitos potenciales para usar el sistema
