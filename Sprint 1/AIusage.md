@@ -99,7 +99,9 @@ El uso de IA en este sprint ha sido clave no solo para la implementación inicia
 | Manuel Palacios | Casos de uso matchmaking | https://chatgpt.com/share/67d3459a-fe14-8011-b21f-fda093cc0340 |
 | Manuel Palacios | Métricas de rendimiento | https://chatgpt.com/share/67d345fd-b32c-8011-9f8c-1a4ec52392b8 |
 | Manuel Palacios | Añadir un vídeo en markdown | https://chatgpt.com/share/67d34617-9e2c-8011-b8a1-c02297bb0063 |
+| Pablo Rodriguez | Arreglar bug en mobiles | https://chatgpt.com/share/67d348f7-f100-8004-83f6-77f74b6becf1 |
+| Pablo Rodríguez | Conexión a la base de datos | https://chatgpt.com/share/67d349b1-41c8-8004-a1ba-ba82fc78ac05 |
+| Pablo Rodríguez | Conexión a Azure | https://chatgpt.com/share/67d34a16-ba84-8004-82a3-7131535444a7 |
+
 
 ---
-
-[Enlace a la base de conocimiento](https://bcc2425.vercel.app/docs/grupos-tarde/Grupo%2010)
