@@ -11,6 +11,8 @@
 
 <img src="../logo_Go4Surprise.png" alt="Go4Surprise Logo" width="200">
 
+**Made by:** José Manuel Miret, Pablo Rodríguez
+
 </div>
 
 ### Integrantes
@@ -163,7 +165,6 @@ Mis contribuciones para este primer sprint han sido: Organizar al equipo ejercie
 **Palacios, Manuel:**
 
 **Rodrígez, Pablo:**
-
 Mi contribución en este primer sprint del desarrollo se ha basado en los siguientes puntos:
 
 - **Preparación del proyecto**: lo cual consistio en crear el repositorio en github, configuar la base de datos y definir las librerías necesarias a instalar. También cree un pequeño documento en forma de tutorial, el cual mis compañeros siguieron para poder empezar a trabajar en el código y testearlo
@@ -174,6 +175,7 @@ Mi contribución en este primer sprint del desarrollo se ha basado en los siguie
 - **Asistencia y participación** en la totalidad de las clases y reuniones
 
 **Romero, Rubén:**
+Durante el primer sprint, he trabajado en varias tareas junto a mis compañeros. En primer lugar, he participado en la elaboración del cuestionario que aparece al crear una cuenta, una tarea que he desarrollado en colaboración con Jose Manuel y Paula. Además, junto a mi compañera María, he trabajado en la funcionalidad para listar las reservas de las experiencias que han sido reservadas, asegurándonos de que se muestre correctamente la información correspondiente. Por último, he colaborado con Manuel Delgado en la redacción del documento revision.md, donde hemos recogido los casos de uso, los datos necesarios para la revisión y los requisitos para usar el sistema.
 
 **Sánchez Gómez, Paula:**
 

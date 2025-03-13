@@ -14,6 +14,9 @@
 
 </div>
 
+**Made by:** José Manuel Miret
+
+
 ### Integrantes
 <div style="columns: 2; -webkit-columns: 2; -moz-columns: 2;">
 
