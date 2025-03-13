@@ -86,8 +86,8 @@ En este apartado se presenta una tabla con todos los datos necesarios para lleva
 | Contraseña usuario 1 | Pablo1234 |
 | Usuario 2 | hello |
 | Contraseña usuario 2 | hello1 |
-| Usuario administrador |  |
-| Contraseña usuario administrador |  |
+| Usuario administrador | RafaelCabello |
+| Contraseña usuario administrador | ispp1234 |
 | Url de la plataforma desplegada  | https://go4-frontend-dot-ispp-2425-g10.ew.r.appspot.com/ |
 | Url del repositorio de Github de código | https://github.com/Go4Surprise/Go4Surprise |
 | Url del repositorio de Github de documentación  | https://github.com/Go4Surprise/Documentation |
@@ -114,3 +114,8 @@ En este apartado se presenta una tabla con todos los datos necesarios para lleva
 
 5. **Disponibilidad geográfica:**  
    - El servicio está disponible únicamente en las ciudades o zonas específicas donde haya oferta de experiencias (esto puede variar y debe consultarse en la plataforma).  
+
+
+## 4. Demo de la aplicación
+
+Enlace al vídeo de la demo en formato .mp4: [Enlace a la demo]
