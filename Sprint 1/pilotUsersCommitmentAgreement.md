@@ -13,7 +13,7 @@
 
 </div>
 
-**Made by:** David Delgado
+**Made by:** Paula Sánchez Gómez
 
 ### Integrantes
 <div style="columns: 2; -webkit-columns: 2; -moz-columns: 2;">
