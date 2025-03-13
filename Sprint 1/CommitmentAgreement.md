@@ -1,6 +1,6 @@
 # Commitment Agreement
 
-![imagen.png](./imagen.png)
+![imagen.png](imagenes/imagen.png)
 
 > **ISPP - Grupo 10**  
 > **Go4Surprise**

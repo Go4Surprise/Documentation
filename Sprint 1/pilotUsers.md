@@ -203,72 +203,72 @@ Las pruebas se realizan a lo largo del desarrollo de la aplicación, con un cale
 
 A continuación, adjunto las respuestas de los usuarios:
 
-![image.png](image.png)
+![image.png](imagenes/image.png)
 
-![image.png](image%201.png)
+![image.png](imagenes/image%201.png)
 
-![image.png](image%202.png)
+![image.png](imagenes/image%202.png)
 
-![image.png](image%203.png)
+![image.png](imagenes/image%203.png)
 
-![image.png](image%204.png)
+![image.png](imagenes/image%204.png)
 
-![image.png](image%205.png)
+![image.png](imagenes/image%205.png)
 
-![image.png](image%206.png)
+![image.png](imagenes/image%206.png)
 
-![image.png](image%207.png)
+![image.png](imagenes/image%207.png)
 
-![image.png](image%208.png)
+![image.png](imagenes/image%208.png)
 
-![image.png](image%209.png)
+![image.png](imagenes/image%209.png)
 
-![image.png](image%2010.png)
+![image.png](imagenes/image%2010.png)
 
-![image.png](image%2011.png)
+![image.png](imagenes/image%2011.png)
 
-![image.png](image%2012.png)
+![image.png](imagenes/image%2012.png)
 
-![image.png](image%2013.png)
+![image.png](imagenes/image%2013.png)
 
-![image.png](image%2014.png)
+![image.png](imagenes/image%2014.png)
 
-![image.png](image%2015.png)
+![image.png](imagenes/image%2015.png)
 
-![image.png](image%2016.png)
+![image.png](imagenes/image%2016.png)
 
-![image.png](image%2017.png)
+![image.png](imagenes/image%2017.png)
 
-![image.png](image%2018.png)
+![image.png](imagenes/image%2018.png)
 
-![image.png](image%2019.png)
+![image.png](imagenes/image%2019.png)
 
-![image.png](image%2020.png)
+![image.png](imagenes/image%2020.png)
 
-![image.png](image%2021.png)
+![image.png](imagenes/image%2021.png)
 
-![image.png](image%2022.png)
+![image.png](imagenes/image%2022.png)
 
-![image.png](image%2023.png)
+![image.png](imagenes/image%2023.png)
 
-![image.png](image%2024.png)
+![image.png](imagenes/image%2024.png)
 
-![image.png](image%2025.png)
+![image.png](imagenes/image%2025.png)
 
-![image.png](image%2026.png)
+![image.png](imagenes/image%2026.png)
 
-![image.png](image%2027.png)
+![image.png](imagenes/image%2027.png)
 
-![image.png](image%2028.png)
+![image.png](imagenes/image%2028.png)
 
-![image.png](image%2029.png)
+![image.png](imagenes/image%2029.png)
 
-![image.png](image%2030.png)
+![image.png](imagenes/image%2030.png)
 
-![image.png](image%2031.png)
+![image.png](imagenes/image%2031.png)
 
-![image.png](image%2032.png)
+![image.png](imagenes/image%2032.png)
 
-![image.png](image%2033.png)
+![image.png](imagenes/image%2033.png)
 
-![image.png](image%2034.png)
+![image.png](imagenes/image%2034.png)
