@@ -141,15 +141,12 @@ En este sprint, me he encargado de diseñar el logotipo y definir toda la identi
 
 ### Sprint 1 (#S1)  
 **Abouri, Mohamed:**
-
 Mis contribuciones para este sprint han sido principalmente arreglar los fallos que estaban en el login, y también crear el cuestionario de preferencias que rellenan los nuevos usuarios después de registrarse. Éste cuestionario ha sido luego mejorado por otros compañeros. También, he ayudado en el arreglo de la funcionalidad del listado de reservas y he empezado la creación de la vista de reseñas en el Frontend. Adicionalmente, he ayudado en la revisión de las nuevas funcionalidades y he asistido y participado en la totalidad de las clases y reuniones.
 
 **Astudillo, Mario:**
-
 Mi desempeño para este sprint en la primera semana fue buscar los problemas encontrados hasta esa altura del proyecto, así como un poco la revisión de las gestión de riesgos y la organización de la presentación. Para la segunda semana me he seguido encargando de los problemas encontrados, así como de la situación financiera actual de nuestro proyecto y su gestion a corto medio plazo. Finalmente he estado también con la gestión de la presentación. Como comentario aparte he tenido estas semanas problemas de salud que he reportado a nuestro Project Manager donde le paso los documentos donde lo respalda
 
 **Barrancos, María:**
-
 - Análisis y desarrollo de la implementación del módulo "Mis Reservas" en ambos frentes, **frontend y backend**, incluyendo la resolución de pequeños conflictos en el código para garantizar su correcto funcionamiento.
 
 - Desarrollo del **informe de uso de la IA**, documentando la evolución y el impacto de su utilización a lo largo del sprint.
@@ -157,20 +154,34 @@ Mi desempeño para este sprint en la primera semana fue buscar los problemas enc
 - Participación activa en **reuniones de organización y presentación**, contribuyendo con ideas y mejoras para la planificación y ejecución del proyecto
 
 **Cabello, Rafael:**
-
 En este sprint mis contribuciones han consistido en la inicialización del backend para formalizar la api e incluir los primeros endpoints, principalmente en la parte de la creación de las reservas, además de arreglar y ajustar según avanzaba el desarrollo y surgían errores. También me he encargado del despliegue de la aplicación, teniendo que realizar adaptaciones para su correcto funcionamiento en el entorno. Finalmente, he asistido a todas las clases y he asistido a las reuniones.
 
 **Chica, Manuel:**
-
 Intencionalmente en blanco
 
 **Delgado, David:**
+En este primer Sprint del proyecto, mi contribución ha sido principalmente gestionar las tareas relacionadas con los usuarios pilotos. Además, he participado en tareas tanto de frontend como de backend y realizar la documentación.
+
+- He ayudado a María Barrancos y a Rubén Romero a la revisión de la implementación del módulo "Mis Reservas" en ambos frentes, **frontend y backend**, incluyendo la resolución de pequeños conflictos en el código para garantizar su correcto funcionamiento.
+- Participación activa en **reuniones de organización y presentación**, contribuyendo con ideas y mejoras para la planificación y ejecución del proyecto.
+- Gestión de los usuarios pilotos
+    - Búsqueda de usuarios pilotos
+    - Comunicación con los usuarios pilotos asignados por el profesor.
+    - Creación de formulario inicial para conocer a los usuarios pilotos.
+    - Redacción y envío del documento de acuerdo para los usuarios pilotos (pilotUsersCommitmentAgreement.md) junto con Paula Sánchez
+    - Redacción y envío de una guía que incluye las instrucciones dadas a los usuarios pilotos junto con Ramón Vergara y Paula Sánchez
+    - Recopilación de las respuestas de los usuarios tras probar la aplicación mediante una encuesta más formalizada.
+    - Redacción del informe sobre los usuarios piloto ([pilotUsers.md](http://pilotusers.md/)), que al menos debe incluir:
+        - La lista de usuarios piloto
+        - Plan de comunicación y gestión
+        - Gestión de feedback
+    - Redacción del archivo de evaluación de desempeño de los usuarios piloto ([pilotUsersPerformanceEvaluation.md](http://pilotusersperformanceevaluation.md/)), donde se evalúa y califica a los estudiantes del ISPP que actúan como usuarios piloto del grupo.
+- He estado trabajando de manera conjunta con Virginia y Gonzalo para la página inicial(index), la página de inicio de sesión(loginScreen) , la página de registro(RegisterScreen) y la página de perfil de usuario(Profile), conectando los botones con el backend.
 
 
 **Domínguez, Gonzalo:**
 
 **Mesa, Virginia:**
-
 En este primer Sprint del proyecto, mi contribución ha sido mayoritariamente en tareas de frontend, pero tambien he realizado tareas de backend y documentación.
 
 En las tareas de frontend, me he encargado de la página inicial(index), de la página de inicio de sesión(loginScreen) , la página de registro(RegisterScreen) y la página de perfil de usuario(Profile). En las cuales he tenido cooperación con compañeros como Gonzalo y David. 
@@ -182,11 +193,9 @@ Respecto al tema de usuarios piloto, he buscado numerosos usuarios piloto.
 Finalmente en el tema de documentación, he pasado a md el commitment agreement, he colaborado en la presentación y he revisado y completado el análisis de costes.
 
 **Miret, Jose Manuel:**
-
 Mis contribuciones para este primer sprint han sido: Organizar al equipo ejerciendo el rol de project manager, planificar el primer sprint más en detalle distribuyendo las tareas entre los diferentes miembros del equipo en base a sus preferencias y organizar los siguientes sprints, ayudar a David Delgado a hacer la partebdel trabajo de los usuarios pilotos (Como contactando con otros usuarios pilotos, resolverle algunas dudas que tenga al respecto con los usuarios pilotos o ayudar a algunos usuarios pilotos a comprender algunas dudas que tengan de la aplicación), tomar apuntes sobre los feedbacks que da el profesorado a los grupos, incluir información en la base común de conocimiento de todos los grupos y como consecuencia hacer el KBreport, hacerla base para la pantalla principal de la aplicación en frontend, ayudar a elaborar las preguntas para el cuestionario sobre los gustos del usuario al registrarte en la aplicación, elaborar y organizar la presentación y ayudar a hacer el login (sobre todo en el inicio de sesión).
 
 **Nicolade, Alejandro:**
-
 Mi contribución en el sprint 1 se ha basado prácticamente en:
 
 - Por una parte, un re-estructuración inicial del modelo de datos en backend por fallos iniciales. Básicamente división de entidades que abarcaban mucho y tenían muchos atributos y que eran divisibles en dos entidades relacionadas
@@ -195,7 +204,6 @@ Mi contribución en el sprint 1 se ha basado prácticamente en:
 A parte de participación activa en las reuniones proponiendo ideas claves para el desarrollo de la aplicación.
 
 **Palacios, Manuel:**
-
 Mi contribución en el Sprint 1 del proyecto ha sido crear una primera versión del backend para gestionar las preferencias de los usuarios, analizar el rendimiento de los miembros del equipo durante el primer sprint y crear una guía detallada de cómo revisar nuestro software acompañada de los datos necesarios para dicha revisión. Para finalizar, he asistido a todas las clases y reuniones que ha organizado el equipo.
 
 **Rodrígez, Pablo:**
@@ -209,11 +217,9 @@ Mi contribución en este primer sprint del desarrollo se ha basado en los siguie
 - **Asistencia y participación** en la totalidad de las clases y reuniones
 
 **Romero, Rubén:**
-
 Durante el primer sprint, he trabajado en varias tareas junto a mis compañeros. En primer lugar, he participado en la elaboración del cuestionario que aparece al crear una cuenta, una tarea que he desarrollado en colaboración con Jose Manuel y Paula. Además, junto a mi compañera María, he trabajado en la funcionalidad para listar las reservas de las experiencias que han sido reservadas, asegurándonos de que se muestre correctamente la información correspondiente. Por último, he colaborado con Manuel Delgado en la redacción del documento revision.md, donde hemos recogido los casos de uso, los datos necesarios para la revisión y los requisitos para usar el sistema.
 
 **Sánchez Gómez, Paula:**
-
 La contribución en este sprint ha sido principalmente el desarrollo tanto de backend como de frontend del cuestionario de preferencias de los usuarios de Go4Surprise para poder conocer sus gustos, también he participado en el login y sign up para poner algunas restricciones sobre el cuestionario. También he realizado una pequeña búsqueda para encontrar usuarios pilotos y he realizado la gestión de estos usuarios encontrados (como ayudar a algunos de dichos usuarios a comprender algunas dudas que tengan de la aplicación), además de hacer la Guía (para que tuviesen información sobre la app y supiesen lo que tenían que probar) y de realizar el Commitment Agreement. También, he realizado la planificación del sprint 2 y 3, la sprint retrospective y he definido los roles del equipo. Además de la asistencia y participación en la totalidad de reuniones y clases, tomando apuntes sobre los feedbacks que da el profesorado a los grupos y colaborando en elaborar las presentaciones semanales. 
 
 **Vergara, Ramón:**
