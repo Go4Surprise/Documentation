@@ -61,7 +61,7 @@ A continuación listamos los casos de uso desarrollados en nuestro sistema y pro
 
 2. **Inicio de sesión:**
 - Para iniciar sesión en nuestro sistema, deberá pulsar el botón de "Iniciar sesión" de la pantalla principal.
-- A continuación deberá introducir unas credenciales correctas (usuario y contraseña) y pulsar en el botón de "Acceder".
+- A continuación deberá introducir unas credenciales correctas (usuario y contraseña) y pulsar en el botón de "Iniciar sesión".
 - Si sus credenciales son correctas, deberá ser redirigido a un formulario para conocer sus preferencias si todavía no lo ha completado, en caso contrario, será enviado a la pantalla de inicio de nuestra aplicación.
 
 3. **Selección de preferencias:**
@@ -71,9 +71,9 @@ A continuación listamos los casos de uso desarrollados en nuestro sistema y pro
 
 4. **Reserva de una experiencia:**
 - Para poder registrar una reserva en nuestro sistema, deberá pulsar el botón de "Sorpréndeme" que aparece al principio de la página.
-- Este botón le llevará a un formulario, el cuál deberá rellenar con datos importantes para la gestión de su experiencia, tales como lugar, duración de la experiencia, precio, participantes y fecha.
+- Este botón le llevará a un formulario, el cuál deberá rellenar con datos importantes para la gestión de su experiencia, tales como lugar, duración de la experiencia, precio, etc. (En los campos de ciudad y categoría puede ver más opciones deslizando hacia un lado).
 - Una vez haya terminado, deberá pulsar el botón de "Register Booking".
-- Si todo ha sido registrado sin problemas, deberá ser enviado a la pantalla de inicio de la aplicación. Si quiere consultar información sobre sus reservas, puede pulsar sobre el botón "MIS RESERVAS", en el menú superior de su pantalla, donde podrá ver los detalles de sus reservas con nuestra aplicación.
+- Si todo ha sido registrado sin problemas, deberá ser enviado a la pantalla de inicio de la aplicación. Si quiere consultar información sobre sus reservas, puede navegar hacia la siguiente url, donde podrá ver los detalles de sus reservas con nuestra aplicación. https://go4-frontend-dot-ispp-2425-g10.ew.r.appspot.com/MyBookings
 
 
 ## 2. Datos necesarios para la revisión
