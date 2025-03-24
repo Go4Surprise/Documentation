@@ -88,7 +88,7 @@ Este documento detalla el proceso de gestión de los usuarios piloto para compro
 
 Los usuarios piloto se han seleccionado mediante una encuesta previa en la que se recoge información detallada de cada usuario.
 
-En la siguiente tabla se muestra una lista de los usuarios pilotos que se ofrecieron a colaborar en este proyecto dándonos su feedback, el cual nos ayudará para guiarnos en la creación de las distintas funcionalidades gracias a las necesidades de estos usuarios acerca de la idea de nuestra aplicación: PlayTogether.
+En la siguiente tabla se muestra una lista de los usuarios pilotos que se ofrecieron a colaborar en este proyecto dándonos su feedback, el cual nos ayudará para guiarnos en la creación de las distintas funcionalidades gracias a las necesidades de estos usuarios acerca de la idea de nuestra aplicación: Go4Surprise
 
 En total contaremos con la colaboración de 19 clientes pilotos para este proyecto.
 
