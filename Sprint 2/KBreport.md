@@ -8,7 +8,7 @@
 
 ## 10 - KBreport
 
-### Sprint 1
+### Sprint 2
 
 <img src="../logo_Go4Surprise.png" alt="Go4Surprise Logo" width="200">
 
