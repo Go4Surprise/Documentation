@@ -264,10 +264,23 @@ Mis aportaciones en este sprint han consistido en implementar funcionalidades pa
 
 
 **Delgado, David:**
+En este segundo Sprint, mi contribución ha sido principalmente gestionar las tareas relacionadas con los usuarios pilotos. Además, he participado en tareas tanto de frontend como de backend y realizar la documentación.
 
+Participación activa en **reuniones de organización y presentación**, contribuyendo con ideas y mejoras para la planificación y ejecución del proyecto.
+- Gestión de los usuarios pilotos
+    - Búsqueda de usuarios pilotos
+    - Comunicación con los usuarios pilotos asignados por el profesor.
+    - Creación de formulario de feedback para este segundo Sprint
+    - Redacción y envío de una guía que incluye las instrucciones dadas a los usuarios pilotos
+    - Recopilación de las respuestas de los usuarios tras probar la aplicación mediante una encuesta más formalizada.
+    - Redacción del informe sobre los usuarios piloto ([pilotUsers.md](http://pilotusers.md/)), que al menos debe incluir:
+        - La lista de usuarios piloto
+        - Plan de comunicación y gestión
+        - Gestión de feedback
+    - Redacción del archivo de evaluación de desempeño de los usuarios piloto ([pilotUsersPerformanceEvaluation.md](http://pilotusersperformanceevaluation.md/)), donde se evalúa y califica a los estudiantes del ISPP que actúan como usuarios piloto del grupo.
 
 **Domínguez, Gonzalo:**
-En este primer Sprint, mi participación ha abarcado diversas áreas clave del proyecto.
+En este segundo Sprint, mi participación ha abarcado diversas áreas clave del proyecto.
 
 - **Creación y edición de los 2 videos para las presentaciones de cada semana.** Me encargué de la producción de los videos, asegurando que comunicaran de manera clara y dinámica el valor de nuestra plataforma.
 - **Funcionalidad de recuperación de contraseña por parte del usuario.** La funcionalidad permite a los usuarios recuperar su contraseña en caso de olvido. Para ello, el usuario ingresa su correo electrónico en el formulario de recuperación. Para completar esta funcionalidad he tenido que trabajar tanto en backend como en frontend, además de configurar el correo electronico para la automatización de los mensajes. Mi compañero para esta tarea ha sido Manuel Palacios.
