@@ -64,7 +64,7 @@ En este apartado se presenta una tabla con todos los datos necesarios para lleva
 | Contraseña usuario 2 | hello1 |
 | Usuario administrador | RafaelCabello |
 | Contraseña usuario administrador | ispp1234 |
-| Número de cuenta para probar la pasarela de pago | 4242 4242 4242 4242 (fecha de caducidad y CVV aleatorios) |
+| Número de tarjeta para probar la pasarela de pago | 4242 4242 4242 4242 (fecha de caducidad y CVV aleatorios) |
 | Url de la plataforma desplegada  | https://go4-frontend-dot-ispp-2425-g10.ew.r.appspot.com |
 | Url del repositorio de Github de código | https://github.com/Go4Surprise/Go4Surprise |
 | Url del repositorio de Github de documentación  | https://github.com/Go4Surprise/Documentation |
@@ -86,7 +86,7 @@ política de privacidad y condiciones de uso y pulsar en el botón azul "Registr
 - Si el registro ha sido aceptado, será redirigido a la pantalla de inicio de sesión.
 - Antes de iniciar sesión, deberá verificar su correo electrónico, para ello, vaya a su bandeja de correo y pulse sobre el enlace que le hemos enviado. (Compruebe la bandeja de Spam)
 - Si no ha habido errores, deberá ver una pantalla verificando su registro. Para continuar a nuestra aplicación, pulse sobre el botón azul "Continuar".
-- Al ser su primera vez en la aplicación, deberá contestar un rápido cuestionario para conocer sus preferencias. [Punto 4](#4-seleccion-de-preferencias)
+- Al ser su primera vez en la aplicación, deberá contestar un rápido cuestionario para conocer sus preferencias. [Punto 3](#3-selección-de-preferencias-ligeras-modificaciones-respecto-al-sprint-1)
 
 
 ### 2. **Inicio de sesión (implementado en Sprint 1):**
@@ -123,7 +123,7 @@ el botón azul "Iniciar sesión".
 
 ## Reserva de experiencias
 
-### 6. **Reserva de una experiencia (cambios importantes respecto al Sprint 1)**
+### 6. **Reserva de una experiencia (cambios importantes respecto al Sprint 1):**
 - Para poder registrar una reserva en nuestro sistema, deberá pulsar el botón azul "Sorpréndeme" que aparece en el centro de la pantalla.
 - Este botón le llevará a un formulario, el cuál deberá rellenar con datos importantes para la gestión de su experiencia.
 - Tanto para elegir la ciudad, como para descartar categorías, puede ver más opciones deslizando hacia un lado. Las categorías descartadas aparecerán en un tono grisáceo.
@@ -135,7 +135,7 @@ el botón azul "Iniciar sesión".
 - Si todo se ha registrado sin problemas, deberá ser enviado a la pantalla de inicio de la aplicación.
 
 
-### 7. **Gestión de mis reservas (cambios importantes respecto al Sprint 1)**
+### 7. **Gestión de mis reservas (cambios importantes respecto al Sprint 1):**
 - En la parte superior de la pantalla principal aparecerá cuántos días quedan para su próxima experiencia con nosotros.
 - Si quiere consultar información sobre sus reservas, puede pulsar sobre el botón azul "Mis Reservas" que aparece en el centro de la pantalla (solo aparecerá si su usuario tiene reservas con nuestra aplicación).
 - Si la reserva se ha confirmado, la tarjeta de la reserva aparecerá con un tono verde claro.
@@ -146,15 +146,15 @@ el botón azul "Iniciar sesión".
 
 
 ## Panel de administrador
-- Si inicias sesión como un usuario administrador, en la página principal de la aplicación, encontrarás un botón "Admin" en la parte superior derecha de la pantalla. Si pulsas sobre él serás redirigido al panel del administrador
+Si inicias sesión como un usuario administrador, en la página principal de la aplicación, encontrarás un botón "Admin" en la parte superior derecha de la pantalla. Si pulsas sobre él serás redirigido al panel del administrador
 
-### 8. **Gestión de usuarios (implementado en Sprint 2)**
+### 8. **Gestión de usuarios (implementado en Sprint 2):**
 - Si pulsas sobre la tarjeta "Gestión de Usuarios", se mostrará una lista de todos los usuarios del sistema. Pulsando sobre cualquiera de los usuarios podrás acceder a los detalles del mismo.
 - Puedes editar un usuario pulsando sobre el botón azul "Editar". Tras hacer los cambios pertinentes, podrás guardar los cambios pulsando el botón verde "Guardar" en la parte superior derecha. A su lado hay un botón gris "Cancelar" para descartar los cambios realizados.
 - Eliminar usuario: no implementado
 
 
-### 9. **Gestión de reservas**
+### 9. **Gestión de reservas (implementado en Sprint 2)**
 - Si pulsas sobre la tarjeta "Gestión de Reservas", se mostrará una lista de todos las reservas del sistema. Pulsando sobre cualquiera de las reservas podrás acceder a los detalles de la misma.
 - Puedes editar una reserva modificando directamente los campos del formulario (modificar experiencia y sus detalles: no implementado). También está la opción de modificar la pista que recibirá el usuario 48 horas antes de la experiencia. Para guardar los cambios, pulsa sobre el botón azul "Actualizar Reserva".
 - Si volvemos al listado de reservas, podemos eliminar cualquier reserva pulsando sobre el botón rojo "Eliminar". Aparecerá una pestaña de confirmación, debemos pulsar el botón rojo "ELIMINAR" para confirmar la operación.
@@ -177,4 +177,4 @@ el botón azul "Iniciar sesión".
 
 # 4. Demo de la aplicación
 
-Enlace al vídeo de la demo en formato .mp4: [\[Enlace a la demo\]](https://drive.google.com/file/d/1FyAMzoAsHo_UBn0l1KDSHMDxWjii5s-u/view?usp=drive_link)
+Enlace al vídeo de la demo en formato .mp4: [\[Enlace a la demo\]](https://drive.google.com/file/d/1CVfznMEtAUXETZ83HgVxtZcD6xQV9SoD/view?usp=drive_link)
