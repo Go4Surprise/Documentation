@@ -171,3 +171,7 @@ Este aprendizaje ha tenido un impacto positivo en la autonomía técnica de los 
 | Pablo Rodríguez | Arreglar bug en móviles | https://chatgpt.com/share/67d348f7-f100-8004-83f6-77f74b6becf1 |
 | Pablo Rodríguez | Conexión a la base de datos | https://chatgpt.com/share/67d349b1-41c8-8004-a1ba-ba82fc78ac05 |
 | Pablo Rodríguez | Conexión a Azure | https://chatgpt.com/share/67d34a16-ba84-8004-82a3-7131535444a7 |
+José Manuel Miret |	OPEX y CAPEX |	https://chatgpt.com/share/67d348f7-f100-8004-83f6-77f74b6becf1
+José Manuel Miret |	Introducir una fecha para el registro |	https://chatgpt.com/share/67d349b1-41c8-8004-a1ba-ba82fc78ac05
+José Manuel Miret |	Imágenes para el StoryBoard	| https://chatgpt.com/share/67dd50b9-a75c-8003-b78b-dfb30848de3a
+José Manuel Miret |	Impacto legal Go4Surprise	| https://chatgpt.com/share/67e49abd-fba8-8008-acd8-dec786355b06
