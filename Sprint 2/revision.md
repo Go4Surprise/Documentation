@@ -64,7 +64,7 @@ En este apartado se presenta una tabla con todos los datos necesarios para lleva
 | Contraseña usuario 2 | hello1 |
 | Usuario administrador | RafaelCabello |
 | Contraseña usuario administrador | ispp1234 |
-| Número de cuenta para probar la pasarela de pago | 4242 4242 4242 4242 (fecha de caducidad y CVV aleatorios) |
+| Número de tarjeta para probar la pasarela de pago | 4242 4242 4242 4242 (fecha de caducidad y CVV aleatorios) |
 | Url de la plataforma desplegada  | https://go4-frontend-dot-ispp-2425-g10.ew.r.appspot.com |
 | Url del repositorio de Github de código | https://github.com/Go4Surprise/Go4Surprise |
 | Url del repositorio de Github de documentación  | https://github.com/Go4Surprise/Documentation |
@@ -146,7 +146,7 @@ el botón azul "Iniciar sesión".
 
 
 ## Panel de administrador
-- Si inicias sesión como un usuario administrador, en la página principal de la aplicación, encontrarás un botón "Admin" en la parte superior derecha de la pantalla. Si pulsas sobre él serás redirigido al panel del administrador
+Si inicias sesión como un usuario administrador, en la página principal de la aplicación, encontrarás un botón "Admin" en la parte superior derecha de la pantalla. Si pulsas sobre él serás redirigido al panel del administrador
 
 ### 8. **Gestión de usuarios (implementado en Sprint 2):**
 - Si pulsas sobre la tarjeta "Gestión de Usuarios", se mostrará una lista de todos los usuarios del sistema. Pulsando sobre cualquiera de los usuarios podrás acceder a los detalles del mismo.
