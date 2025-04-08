@@ -1,19 +1,13 @@
-<div align="right">
-    <img src="../logo_US.png" alt="Go4Surprise Logo" width="100">
-</div>
-<div align="center">
+## Uso de IA en el Proyecto
 
-# Grupo 10 - Go4Surprise
+![imagen.png](imagenes/imagen.png)
 
-## 10 - AIusage
+<aside>
+ISPP - Grupo 10
 
-### Sprint 2
+Go4Surprise
 
-<img src="../logo_Go4Surprise.png" alt="Go4Surprise Logo" width="200">
-
-</div>
-
-**Made by:** María Barrancos
+</aside>
 
 ### Integrantes
 <div style="columns: 2; -webkit-columns: 2; -moz-columns: 2;">
