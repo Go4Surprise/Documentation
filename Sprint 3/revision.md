@@ -44,6 +44,7 @@
 | Fecha | Miembro del equipo | Contribución |
 | --- | --- | --- |
 | 08/04/2025 | Manuel Palacios Pineda | Primera versión basada en el documento del Sprint 2 |
+| 09/04/2025 | Manuel Palacios Pineda | Añadidas nuevas funcionalidades de la aplicación |
 
 # Resumen del documento
 
@@ -140,22 +141,28 @@ el botón azul "Iniciar sesión".
 
 
 ### 8. **Sistema de reseñas (implementado en el Sprint 3):**
-Por rellenar
+- Nuestra aplicación permite dejar reseñas en experiencias que ya hayan ocurrido.
+- Para dejar una reseña de una experiencia, visite la página de gestión de reservas como se ha indicado en el [punto 7](#7-gestión-de-mis-reservas-cambios-importantes-respecto-al-sprint-2).
+- Una vez en "Mis Reservas", debe seleccionar la opción de ver solamente sus reservas pasadas pulsando el botón "Pasadas" de la parte superior de la pantalla.
+- Para cada reserva, puede dejar una reseña pulsando sobre el botón amarillo "Dejar Reseña".
+- Cabe destacar que solo puede añadir una reseña por reserva, por lo que si ya ha dejado su opinión sobre una experiencia, solamente aparecerá el mensaje de confirmación "Reseña enviada".
+- Al pulsar el botón "Dejar Reseña", deberá poner una puntuación de 0 a 5 estrellas, un comentario, y añadir las fotos o vídeos correspondientes a su experiencia. Para confirmar la reseña, pulse el botón azul "Enviar". Si no quiere seguir adelante, pulse el botón gris "Cancelar".
+- Si vuelve a la página principal de la aplicación, y pulsa sobre "Ver más opiniones" (debe navegar un poco hacia abajo), podrá ver las reseñas de otros usuarios con nosotros.
 
 
 
 ## Panel de administrador
 Si inicias sesión como un usuario administrador, en la página principal de la aplicación, encontrarás un botón "Admin" en la parte superior derecha de la pantalla. Si pulsas sobre él serás redirigido al panel del administrador
 
-### 8. **Gestión de usuarios:**
+### 9. **Gestión de usuarios (implementado en el Sprint 2):**
 - Si pulsas sobre la tarjeta "Gestión de Usuarios", se mostrará una lista de todos los usuarios del sistema. Pulsando sobre cualquiera de los usuarios podrás acceder a los detalles del mismo.
-- Puedes editar un usuario pulsando sobre el botón azul "Editar". Tras hacer los cambios pertinentes, podrás guardar los cambios pulsando el botón verde "Guardar" en la parte superior derecha. A su lado hay un botón gris "Cancelar" para descartar los cambios realizados.
+- Puedes editar un usuario pulsando sobre el botón azul superior "Editar". Tras hacer los cambios pertinentes, podrás guardar los cambios pulsando el botón verde "Guardar" en la parte superior derecha. A su lado hay un botón gris "Cancelar" para descartar los cambios realizados.
 - Eliminar usuario: no implementado
 
 
-### 9. **Gestión de reservas:**
+### 10. **Gestión de reservas (ligeras modificaciones respecto al Sprint 2):**
 - Si pulsas sobre la tarjeta "Gestión de Reservas", se mostrará una lista de todos las reservas del sistema. Pulsando sobre cualquiera de las reservas podrás acceder a los detalles de la misma.
-- Puedes editar una reserva modificando directamente los campos del formulario (modificar experiencia y sus detalles: no implementado). También está la opción de modificar la pista que recibirá el usuario 48 horas antes de la experiencia. Para guardar los cambios, pulsa sobre el botón azul "Actualizar Reserva".
+- Puedes editar una reserva modificando directamente los campos del formulario. También está la opción de añadir los datos de la experiencia que se va asignar al usuario. Para guardar los cambios, pulsa sobre el botón azul "Actualizar Reserva".
 - Si volvemos al listado de reservas, podemos eliminar cualquier reserva pulsando sobre el botón rojo "Eliminar". Aparecerá una pestaña de confirmación, debemos pulsar el botón rojo "ELIMINAR" para confirmar la operación.
 
 
