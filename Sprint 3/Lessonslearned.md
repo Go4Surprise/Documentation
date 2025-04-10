@@ -1,33 +1,43 @@
-# Lecciones aprendidas
+#<div align="right">
+    <img src="../logo_US.png" alt="Go4Surprise Logo" width="100">
+</div>
+<div align="center">
+
+# Grupo 10 - Go4Surprise
+
+## 10 - LessonsLearned
+
+### Sprint 3
+
+<img src="../logo_Go4Surprise.png" alt="Go4Surprise Logo" width="200">
+
+</div>
+
+**Made by:** José Manuel Miret, José Gonzalo Domínguez
 
 
-![imagen.png](imagenes/imagen.png)
+### Integrantes
+<div style="columns: 2; -webkit-columns: 2; -moz-columns: 2;">
 
-<aside>
-ISPP - Grupo 10
+- Mohamed Abouri  
+- Mario Astudillo Fierro  
+- María Barrancos Márquez  
+- Rafael Cabello Ranea  
+- Manuel Chica López  
+- David Delgado Pallares  
+- José Gonzalo Domínguez Moreno  
+- Virginia Mesa Pérez  
+- José Manuel Miret Martín  
+- Alejandro Nicolade Bravo  
+- Manuel Palacios Pineda  
+- Pablo Rodríguez Sánchez  
+- Rubén Romero Sánchez  
+- Paula Sánchez Gómez  
+- Ramón Vergara Garrido  
 
-Go4Surprise
+</div>
 
-</aside>
-
-
-**Miembros del equipo:**
-
-- Abouri, Mohamed
-- Astudillo, Mario
-- Barrancos, María
-- Cabello, Rafael
-- Chica, Manuel
-- Delgado, David
-- Domínguez, Gonzalo
-- Mesa, Virginia
-- Miret, José Manuel
-- Nicolade, Alejandro
-- Palacios, Manuel
-- Rodrígez, Pablo
-- Romero, Rubén
-- Sánchez, Paula
-- Vergara, Ramón
+---
 
 # Sprint 1
 

@@ -1,33 +1,43 @@
-# Informe del uso de la IA
+#<div align="right">
+    <img src="../logo_US.png" alt="Go4Surprise Logo" width="100">
+</div>
+<div align="center">
+
+# Grupo 10 - Go4Surprise
+
+## 10 - AIusage
+
+### Sprint 3
+
+<img src="../logo_Go4Surprise.png" alt="Go4Surprise Logo" width="200">
+
+</div>
+
+**Made by:** María Barrancos
 
 
-![imagen.png](imagenes/imagen.png)
+### Integrantes
+<div style="columns: 2; -webkit-columns: 2; -moz-columns: 2;">
 
-<aside>
-ISPP - Grupo 10
+- Mohamed Abouri  
+- Mario Astudillo Fierro  
+- María Barrancos Márquez  
+- Rafael Cabello Ranea  
+- Manuel Chica López  
+- David Delgado Pallares  
+- José Gonzalo Domínguez Moreno  
+- Virginia Mesa Pérez  
+- José Manuel Miret Martín  
+- Alejandro Nicolade Bravo  
+- Manuel Palacios Pineda  
+- Pablo Rodríguez Sánchez  
+- Rubén Romero Sánchez  
+- Paula Sánchez Gómez  
+- Ramón Vergara Garrido  
 
-Go4Surprise
+</div>
 
-</aside>
-
-
-**Miembros del equipo:**
-
-- Abouri, Mohamed
-- Astudillo, Mario
-- Barrancos, María
-- Cabello, Rafael
-- Chica, Manuel
-- Delgado, David
-- Domínguez, Gonzalo
-- Mesa, Virginia
-- Miret, José Manuel
-- Nicolade, Alejandro
-- Palacios, Manuel
-- Rodrígez, Pablo
-- Romero, Rubén
-- Sánchez, Paula
-- Vergara, Ramón
+---
 
 ***Uso de IA en el Proyecto****
 

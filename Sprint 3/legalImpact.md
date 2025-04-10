@@ -1,34 +1,43 @@
-# Impacto legal
+#<div align="right">
+    <img src="../logo_US.png" alt="Go4Surprise Logo" width="100">
+</div>
+<div align="center">
 
-![imagen.png](imagenes/imagen.png)
+# Grupo 10 - Go4Surprise
 
-<aside>
-ISPP - Grupo 10
+## 10 - LegalImpact
 
-Go4Surprise
+### Sprint 3
 
-</aside>
+<img src="../logo_Go4Surprise.png" alt="Go4Surprise Logo" width="200">
 
-Contenido: Este documento describe los aspectos legales relevantes para el desarrollo y operación de la plataforma Go4Surprise.
+</div>
 
-**Miembros del equipo:**
+**Made by:** José Manuel Miret
 
-- Astudillo, Mario
-- Abouri, Mohamed
-- Barrancos, María
-- Cabello, Rafael
-- Chica, Manuel
-- Delgado, David
-- Domínguez, Gonzalo
-- Mesa, Virginia
-- Miret, José Manuel
-- Nicolade, Alejandro
-- Palacios, Manuel
-- Rodrígez, Pablo
-- Romero, Rubén
-- Sánchez, Paula
-- Vergara, Ramón
 
+### Integrantes
+<div style="columns: 2; -webkit-columns: 2; -moz-columns: 2;">
+
+- Mohamed Abouri  
+- Mario Astudillo Fierro  
+- María Barrancos Márquez  
+- Rafael Cabello Ranea  
+- Manuel Chica López  
+- David Delgado Pallares  
+- José Gonzalo Domínguez Moreno  
+- Virginia Mesa Pérez  
+- José Manuel Miret Martín  
+- Alejandro Nicolade Bravo  
+- Manuel Palacios Pineda  
+- Pablo Rodríguez Sánchez  
+- Rubén Romero Sánchez  
+- Paula Sánchez Gómez  
+- Ramón Vergara Garrido  
+
+</div>
+
+---
 
 ## Licencias y Propiedad Intelectual
 

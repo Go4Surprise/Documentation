@@ -1,60 +1,43 @@
-# Usuarios Pilotos
+#<div align="right">
+    <img src="../logo_US.png" alt="Go4Surprise Logo" width="100">
+</div>
+<div align="center">
 
-Creado por: David Delgado Pallares
-Fecha de creación: 10 de abril de 2025 16:30
-Categoría: Investigación 🧑‍🔬
-Fecha de última actualización: 10 de abril de 2025 17:32
-Creado por 1: David Delgado Pallares
-Entregable: Sprint 3
+# Grupo 10 - Go4Surprise
 
-![imagen.png](imagenes/imagen.png)
+## 10 - pilotUsers
 
-<aside>
-ISPP - Grupo 10
+### Sprint 3
 
-Go4Surprise
+<img src="../logo_Go4Surprise.png" alt="Go4Surprise Logo" width="200">
 
-</aside>
+</div>
 
-# Usuarios Pilotos
+**Made by:** David Delgado
 
-Entregable: Tercero
 
-Contenido: En este documento se incluyen los ⁠usuarios pilotos que influyen en nuestro proyecto, incluyendo los objetivos, el criterio de selección, las necesidades, las motivaciones, y las protopersonas que lo forman. 
+### Integrantes
+<div style="columns: 2; -webkit-columns: 2; -moz-columns: 2;">
 
-**Miembros del equipo:**
+- Mohamed Abouri  
+- Mario Astudillo Fierro  
+- María Barrancos Márquez  
+- Rafael Cabello Ranea  
+- Manuel Chica López  
+- David Delgado Pallares  
+- José Gonzalo Domínguez Moreno  
+- Virginia Mesa Pérez  
+- José Manuel Miret Martín  
+- Alejandro Nicolade Bravo  
+- Manuel Palacios Pineda  
+- Pablo Rodríguez Sánchez  
+- Rubén Romero Sánchez  
+- Paula Sánchez Gómez  
+- Ramón Vergara Garrido  
 
-- Astudillo, Mario
+</div>
 
-- Abouri, Mohamed
-
-- Barrancos, María
-
-- Cabello, Rafael
-
-- Chica, Manuel
-
-- Delgado, David
-
-- Domínguez, Gonzalo
-
-- Mesa, Virginia
-
-- Miret, José Manuel
-
-- Nicolalde, Alejandro
-
-- Palacios, Manuel
-
-- Rodríguez, Pablo
-
-- Romero, Rubén
-
-- Sánchez, Paula
-
-- Vergara, Ramón
-
-Fecha: 25/03/2025
+---
 
 # Introducción
 

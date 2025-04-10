@@ -1,33 +1,45 @@
 # Plan de pruebas
 
+<div align="right">
+    <img src="../logo_US.png" alt="Go4Surprise Logo" width="100">
+</div>
+<div align="center">
 
-![imagen.png](imagenes/imagen.png)
+# Grupo 10 - Go4Surprise
 
-<aside>
-ISPP - Grupo 10
+## 10 - TestingPlan
 
-Go4Surprise
+### Sprint 3
 
-</aside>
+<img src="../logo_Go4Surprise.png" alt="Go4Surprise Logo" width="200">
+
+</div>
+
+**Made by:** Virginia Mesa
 
 
-**Miembros del equipo:**
+### Integrantes
+<div style="columns: 2; -webkit-columns: 2; -moz-columns: 2;">
 
-- Abouri, Mohamed
-- Astudillo, Mario
-- Barrancos, María
-- Cabello, Rafael
-- Chica, Manuel
-- Delgado, David
-- Domínguez, Gonzalo
-- Mesa, Virginia
-- Miret, José Manuel
-- Nicolade, Alejandro
-- Palacios, Manuel
-- Rodrígez, Pablo
-- Romero, Rubén
-- Sánchez, Paula
-- Vergara, Ramón
+- Mohamed Abouri  
+- Mario Astudillo Fierro  
+- María Barrancos Márquez  
+- Rafael Cabello Ranea  
+- Manuel Chica López  
+- David Delgado Pallares  
+- José Gonzalo Domínguez Moreno  
+- Virginia Mesa Pérez  
+- José Manuel Miret Martín  
+- Alejandro Nicolade Bravo  
+- Manuel Palacios Pineda  
+- Pablo Rodríguez Sánchez  
+- Rubén Romero Sánchez  
+- Paula Sánchez Gómez  
+- Ramón Vergara Garrido  
+
+</div>
+
+---
 
 # 1. Alcance
 
