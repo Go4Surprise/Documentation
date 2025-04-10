@@ -402,15 +402,14 @@ Participación activa en **reuniones de organización y presentación**, contri
     - Corrección de errores en test unitarios realizados por mi compañera Virginia Mesa.
     - Corrección de errores y mejoras sugeridas por los usuarios pilotos.
 
- 
 
 ## Domínguez Moreno, Gonzalo
 
-En este primer Sprint, mi participación ha abarcado diversas áreas clave del proyecto.
+En este tercer Sprint, mi participación ha abarcado diversas áreas clave del proyecto.
 
-- **Creación y edición del video para nuestra demo.** Me encargué de la producción del video de presentación, asegurando que comunicara de manera clara y dinámica el valor de nuestra plataforma.
+- **Creación y edición del video para nuestra demo** Me encargué de la producción del video de presentación de la primera semana del sprint 3, asegurando que comunicara de manera clara y dinámica el valor de nuestra plataforma.
 - **Preparación de la presentación**: creación y organización de las diapositivas a presentar.
-- Redacción del documento “Problemas encontrado sprint 1 y 2”:
+- Redacción del documento “Problemas encontrado sprint 1 y 2”
 - **Asistencia** a las 2 clases y a una reunión.
 
 ## Mesa Pérez, Virginia:
