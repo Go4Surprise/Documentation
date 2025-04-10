@@ -1,4 +1,11 @@
+# Usuarios Pilotos
 
+Creado por: José Manuel
+Fecha de creación: 19 de marzo de 2025 18:09
+Categoría: Investigación 🧑‍🔬
+Fecha de última actualización: 27 de marzo de 2025 22:47
+Creado por 1: José Manuel
+Entregable: Sprint 2
 
 ![imagen.png](imagenes/imagen.png)
 
