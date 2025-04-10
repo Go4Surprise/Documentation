@@ -1,11 +1,11 @@
 # Usuarios Pilotos
 
-Creado por: José Manuel
-Fecha de creación: 19 de marzo de 2025 18:09
+Creado por: David Delgado Pallares
+Fecha de creación: 10 de abril de 2025 16:30
 Categoría: Investigación 🧑‍🔬
-Fecha de última actualización: 27 de marzo de 2025 22:47
-Creado por 1: José Manuel
-Entregable: Sprint 2
+Fecha de última actualización: 10 de abril de 2025 17:32
+Creado por 1: David Delgado Pallares
+Entregable: Sprint 3
 
 ![imagen.png](imagenes/imagen.png)
 
@@ -18,7 +18,7 @@ Go4Surprise
 
 # Usuarios Pilotos
 
-Entregable: Segundo
+Entregable: Tercero
 
 Contenido: En este documento se incluyen los ⁠usuarios pilotos que influyen en nuestro proyecto, incluyendo los objetivos, el criterio de selección, las necesidades, las motivaciones, y las protopersonas que lo forman. 
 
@@ -72,20 +72,20 @@ En total contaremos con la colaboración de 46 usuarios piloto para este proyect
 
 | **Nº** | **NOMBRE** | DP | S1 | S2 | S3 | FINAL |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Ignacio Blanquero Blanco | ✅ | ✅ | ✅ |  |  |
-| 2 | Isabel Cantero Corchero | ✅ | ✅ | ✅ |  |  |
-| 3 | Jun Yao | ✅ | ✅ | ✅ |  |  |
-| 4 | Guadalupe R.P. | ✅ | ✅ | ✅ |  |  |
-| 5 | Manuel P.V. | ✅ | ✅ | ✅ |  |  |
-| 6 | Alvaro M.M. | ✅ | ✅ | ✅ |  |  |
-| 7 | Pablo F.P. | ✅ | ✅ | ✅ |  |  |
+| 1 | Ignacio Blanquero Blanco | ✅ | ✅ | ✅ | ✅ |  |
+| 2 | Isabel Cantero Corchero | ✅ | ✅ | ✅ | ✅ |  |
+| 3 | Yao Jun | ✅ | ✅ | ✅ | ✅ |  |
+| 4 | Guadalupe Ridruejo Pineda | ✅ | ✅ | ✅ | ✅ |  |
+| 5 | Manuel Pérez Vélez | ✅ | ✅ | ✅ | ✅ |  |
+| 6 | Alvaro Martín Muñoz | ✅ | ✅ | ✅ | ✅ |  |
+| 7 | Pablo Fernández Pérez | ✅ | ✅ | ✅ | ✅ |  |
 | 8 | Laura M.P. | ✅ | ✅ | ✅ |  |  |
-| 9 | Manuel M.I. | ✅ | ✅ | ✅ |  |  |
-| 10 | Ana María M.B. | ✅ | ✅ | ✅ |  |  |
-| 11 | Lidia Maria R.D. | ✅ | ✅ |  |  |  |
+| 9 | Manuel M.I. | ✅ | ✅ | ✅ | ✅ |  |
+| 10 | Ana María M.B. | ✅ | ✅ | ✅ | ✅ |  |
+| 11 | Lidia Maria R.D. | ✅ | ✅ |  | ✅ |  |
 | 12 | Aida V.C. | ✅ | ✅ |  |  |  |
-| 13 | Ángela R.M. | ✅ | ✅ |  |  |  |
-| 14 | Rubén C.T. | ✅ | ✅ | ✅ |  |  |
+| 13 | Ángela R.M. | ✅ | ✅ |  | ✅ |  |
+| 14 | Rubén C.T. | ✅ | ✅ | ✅ | ✅ |  |
 | 15 | Curro G.F. | ✅ | ✅ |  |  |  |
 | 16 | Laura O.M. | ✅ | ✅ | ✅ |  |  |
 | 17 | Merche L.M. | ✅ | ✅ |  |  |  |
@@ -108,7 +108,7 @@ En total contaremos con la colaboración de 46 usuarios piloto para este proyect
 | 34 | Marta J.A | ✅ |  | ✅ |  |  |
 | 35 | Alejandro M.I. | ✅ |  |  |  |  |
 | 36 | Francisco B. | ✅ |  |  |  |  |
-| 37 | Francisco C.M. | ✅ |  |  |  |  |
+| 37 | Francisco C.M. | ✅ |  |  | ✅ |  |
 | 38 | Marta M.J. | ✅ |  |  |  |  |
 | 39 | Pilar P.G. | ✅ |  | ✅ |  |  |
 | 40 | Irene D.M. | ✅ |  |  |  |  |
@@ -117,7 +117,7 @@ En total contaremos con la colaboración de 46 usuarios piloto para este proyect
 | 43 | Nacho P.P. | ✅ |  |  |  |  |
 | 44 | María C.Q. | ✅ |  |  |  |  |
 | 45 | Antonio M.M. |  |  | ✅ |  |  |
-| 46 | Juan Antonio G.L. |  |  | ✅ |  |  |
+| 46 | Juan Antonio G.L. |  |  | ✅ | ✅ |  |
 
 ## Planificación de pruebas y feedback
 
@@ -206,9 +206,20 @@ Los compromisos que tienen los usuarios piloto con Go4Surprise vienen recogidos 
 plataforma a terceros.
 - Las pruebas se realizan a lo largo del desarrollo de la aplicación, con un calendario estructurado para garantizar una evaluación progresiva.
 
+# Planificación de Usuarios Piloto
+
+| **ETAPA** | **DESCRIPCIÓN** | **FECHA INICIO** | **FECHA FINAL** |
+| --- | --- | --- | --- |
+| **DP** | Encuesta inicial para la búsqueda | 17/02/2025 | 20/02/2025 |
+| **S1** | Lanzamiento de la primera versión de Go4Surprise | 10/03/2025 | 13/03/2025 |
+| **S2** | Despliegue de Go4Surprise con las funcionalidades añadidas durante el Sprint 1 junto con las correcciones sobre errores técnicos y de diseño detectados | 24/03/2025 | 27/03/2025 |
+| **S3** | Despliegue de Go4Surprise con las funcionalidades añadidas durante el Sprint 2 junto con las correcciones sobre errores técnicos y de diseño detectados | 07/04/2025 | 10/04/2025 |
+| **PPL** | Comprobación del correcto funcionamiento de las funcionalidades añadidas durante los sprints 1,2,3 junto con las revisiones realizadas a partir del feedback | 28/04/2025 | 01/05/2025 |
+| **WPL** | Probar la versión final pre-lanzamiento Go4Surprise | 19/05/2025 | 22/05/2025 |
+
 # Feedback Recibido en el Sprint 1
 
-### **En total, hemos recibido feedback de 23 de nuestros usuarios piloto:**
+### En total, hemos recibido feedback de 22 de nuestros usuarios piloto:
 
 ## Respuestas a la encuesta:
 
@@ -315,48 +326,48 @@ plataforma a terceros.
 Tras analizar las distintas respuestas de los usuarios pilotos después de probar la aplicación en su versión inicial, hemos identificado las tareas más importantes a solucionar y/o implementar de cara a mejorar la aplicación para el Sprint 2:
 
 - [ ]  Hacer que el perfil de usuario se pueda modificar la foto
-- [ ]  Hacer la encuesta más general en cuanto a preferencias
+- [x]  Hacer la encuesta más general en cuanto a preferencias
 - [ ]  Añadir barras de progreso en el cuestionario
-- [ ]  Añadir en la encuesta preguntas para gente con restricciones alimentarias o de salud como intolerancias y alergias
-- [ ]  Elección de una franja horaria, mañana, tarde o noche
-- [ ]  Añadir una landing-page con información acerca de Go4Surprise en la pantalla principal
-- [ ]  Permitir eventos que te puedas llevar mascota (48 horas antes, como pista
+- [x]  Añadir en la encuesta preguntas para gente con restricciones alimentarias o de salud como intolerancias y alergias
+- [x]  Elección de una franja horaria, mañana, tarde o noche
+- [x]  Añadir una landing-page con información acerca de Go4Surprise en la pantalla principal
+- [x]  Permitir eventos que te puedas llevar mascota (48 horas antes, como pista
 - [ ]  Hacer la aplicación más atractiva visualmente
-- [ ]  Añadir más variedad de preguntas en el cuestionario inicial de preferencias
-- [ ]  Tramo por edades en la selección de eventos, por ejemplo para personas menores de edad o gente senior (No sé a que se refiere)
+- [x]  Añadir más variedad de preguntas en el cuestionario inicial de preferencias
+- [x]  Tramo por edades en la selección de eventos, por ejemplo para personas menores de edad o gente senior (No sé a que se refiere)
 - [ ]  Mejorar el diseño de la aplicación en formato móvil
-- [ ]  Indicar en el cuestionario si se puede seleccionar mas de una opción
-- [ ]  No permitir la selección de ninguna otra opción cuando se seleccione la opción “Nada en concreto” .
-- [ ]  Mejorar la sección del registro añadiendo más espacio entre los campos
+- [x]  Indicar en el cuestionario si se puede seleccionar mas de una opción
+- [x]  No permitir la selección de ninguna otra opción cuando se seleccione la opción “Nada en concreto” .
+- [x]  Mejorar la sección del registro añadiendo más espacio entre los campos
 - [ ]  Incluir registrarse con cuentas secundarias
 - [ ]  Arreglar el enlace de enviar un correo para recuperar contraseña
-- [ ]  Añadir botón para volver atrás en algunas secciones
+- [x]  Añadir botón para volver atrás en algunas secciones
 - [ ]  Colocar el botón para ir a la página de inicio en el perfil de usuario en la parte superior
 - [ ]  Mantener el mismo idioma en todas la aplicación
-- [ ]  Indicar la moneda elegida para el precio
-- [ ]  Aclarar si el precio de la reserva es el total o es por persona
+- [x]  Indicar la moneda elegida para el precio
+- [x]  Aclarar si el precio de la reserva es el total o es por persona
 - [ ]  Arreglar que la fecha de la reserva sea posterior a la contratación y comprobar que sea válida según nuestras restricciones
-- [ ]  Arreglar que el número de participantes no pueda ser menor o igual que 0
-- [ ]  Arreglar que el precio no pueda ser menor o igual que 0
+- [x]  Arreglar que el número de participantes no pueda ser menor o igual que 0
+- [x]  Arreglar que el precio no pueda ser menor o igual que 0
 - [ ]  Añadir una sección para las opiniones de las personas, no está funcionando el botón
-- [ ]  Incluir opiniones más recientes de las experiencias
+- [x]  Incluir opiniones más recientes de las experiencias
 - [ ]  Añadir comentarios en el frontend para indicar las restricciones que existan en el backend de correo electrónico o de número de teléfono
 - [ ]  Indicar que el teléfono no sea obligatorio.
-- [ ]  Añadir un campo en el registro para confirmar que la contraseña introducida es correcta.
+- [x]  Añadir un campo en el registro para confirmar que la contraseña introducida es correcta.
 - [ ]  Añadir un botón para que se pueda visualizar la contraseña en el registro y en el inicio de sesión.
-- [ ]  Indicar en el historial de reservas si son las reservas ya realizadas o reservas que están aún por hacer.
-- [ ]  que se puedan ver los registros que has hecho
-- [ ]  Comprobar el correcto funcionamiento de la eliminación de la cuenta
-- [ ]  Actualizar los colores de la encuesta de preferencias
-- [ ]  Añadir un botón para cancelar la reserva en la sección de “MIS RESERVAS”
-- [ ]  Actualizar cuestionario de preferencias
+- [x]  Indicar en el historial de reservas si son las reservas ya realizadas o reservas que están aún por hacer.
+- [x]  que se puedan ver los registros que has hecho
+- [x]  Comprobar el correcto funcionamiento de la eliminación de la cuenta
+- [x]  Actualizar los colores de la encuesta de preferencias
+- [x]  Añadir un botón para cancelar la reserva en la sección de “MIS RESERVAS”
+- [x]  Actualizar cuestionario de preferencias
 - [ ]  No permitir que el nombre y el apellido contengan números
-- [ ]  Añadir una barra de rango de precios para realizar la reserv
+- [x]  Añadir una barra de rango de precios para realizar la reserv
 - [ ]  Arreglar las horas de la reserva
-- [ ]  Añadir la opción de eliminar las reservas
-- [ ]  Añadir una cuenta atrás de la reserva más reciente
-- [ ]  Solucionar error en el registro
-- [ ]  Añadir validaciones para cada uno de los campos en el registro
+- [x]  Añadir la opción de eliminar las reservas
+- [x]  Añadir una cuenta atrás de la reserva más reciente
+- [x]  Solucionar error en el registro
+- [x]  Añadir validaciones para cada uno de los campos en el registro
 
 # Resumen del Feedback Recibido en el Sprint 1:
 
@@ -391,6 +402,8 @@ Tras analizar las distintas respuestas de los usuarios pilotos después de proba
 - Mejorar la accesibilidad y las opciones de inclusividad
 
 # Feedback Recibido en el Sprint 2
+
+### En total, hemos recibido feedback de 23 de nuestros usuarios piloto:
 
 ## Respuestas a la encuesta:
 
@@ -463,7 +476,7 @@ Tras analizar las distintas respuestas de los usuarios pilotos después de proba
 Tras analizar las distintas respuestas de los usuarios pilotos después de probar la aplicación en su versión inicial, hemos identificado las tareas más importantes a solucionar y/o implementar de cara a mejorar la aplicación para el Sprint 3:
 
 - [ ]  Mejorar la validación de los campos de registro para asegurar datos correctos
-- [ ]  Implementar la funcionalidad de cancelación de reservas
+- [x]  Implementar la funcionalidad de cancelación de reservas
 - [ ]  Optimizar la experiencia de usuario en dispositivos móviles
 - [ ]  Añadir más información sobre las experiencias y sus restricciones
 - [ ]  Mejorar el sistema de notificaciones y recordatorios de reservas
@@ -473,8 +486,8 @@ Tras analizar las distintas respuestas de los usuarios pilotos después de proba
 - [ ]  Implementar un sistema de valoraciones y reseñas más robusto
 - [ ]  Optimizar los tiempos de carga y respuesta de la aplicación
 - [ ]  Añadir más métodos de pago y mejorar el proceso de reserva
+    - [ ]  Mejorar la accesibilidad general de la aplicación
 - [ ]  Implementar un sistema de búsqueda avanzada de experiencias
-- [ ]  Mejorar la accesibilidad general de la aplicación
 - [ ]  Añadir más idiomas y mejorar la consistencia en las traducciones
 - [ ]  Implementar un sistema de recomendaciones personalizado
 
@@ -500,13 +513,96 @@ Tras analizar las distintas respuestas de los usuarios pilotos después de proba
 - Mejorar la experiencia móvil con un diseño más responsive y adaptativo
 - Añadir más opciones de personalización y filtrado en la búsqueda de experiencias
 
-# Planificación de Usuarios Piloto
+# Feedback Recibido en el Sprint 3
 
-| **ETAPA** | **DESCRIPCIÓN** | **FECHA INICIO** | **FECHA FINAL** |
-| --- | --- | --- | --- |
-| **DP** | Encuesta inicial para la búsqueda | 17/02/2025 | 20/02/2025 |
-| **S1** | Lanzamiento de la primera versión de Go4Surprise | 10/03/2025 | 13/03/2025 |
-| **S2** | Despliegue de Go4Surprise con las funcionalidades añadidas durante el Sprint 1 junto con las correcciones sobre errores técnicos y de diseño detectados | 24/03/2025 | 27/03/2025 |
-| **S3** | Despliegue de Go4Surprise con las funcionalidades añadidas durante el Sprint 2 junto con las correcciones sobre errores técnicos y de diseño detectados | 07/04/2025 | 10/04/2025 |
-| **PPL** | Comprobación del correcto funcionamiento de las funcionalidades añadidas durante los sprints 1,2,3 junto con las revisiones realizadas a partir del feedback | 28/04/2025 | 01/05/2025 |
-| **WPL** | Probar la versión final pre-lanzamiento Go4Surprise | 19/05/2025 | 22/05/2025 |
+### En total, hemos recibido feedback de 14 de nuestros usuarios piloto:
+
+## Respuestas a la encuesta:
+
+### Registro e inicio de sesión:
+
+![image.png](imagenes/image%2065.png)
+
+![image.png](imagenes/image%2066.png)
+
+### Interfaz y usabilidad
+
+![image.png](imagenes/image%2067.png)
+
+### Reserva de experiencias
+
+![image.png](imagenes/image%2068.png)
+
+![image.png](imagenes/image%2069.png)
+
+### Mi Perfil
+
+![image.png](imagenes/image%2070.png)
+
+![image.png](imagenes/image%2071.png)
+
+### Compatibilidad y accesibilidad
+
+![image.png](imagenes/image%2072.png)
+
+### Feedback General
+
+![image.png](imagenes/image%2073.png)
+
+![image.png](imagenes/image%2074.png)
+
+![image.png](imagenes/image%2075.png)
+
+![image.png](imagenes/image%2076.png)
+
+![image.png](imagenes/image%2077.png)
+
+![image.png](imagenes/image%2078.png)
+
+![image.png](imagenes/image%2079.png)
+
+![image.png](imagenes/image%2080.png)
+
+### Otras consideraciones
+
+![image.png](imagenes/image%2081.png)
+
+![image.png](imagenes/image%2082.png)
+
+![image.png](imagenes/image%2083.png)
+
+# Análisis del Feedback Recibido en el Sprint 3
+
+Tras analizar las distintas respuestas de los usuarios pilotos después de probar la aplicación en su versión inicial, hemos identificado las tareas más importantes a solucionar y/o implementar de cara a mejorar la aplicación para la siguiente entrega (PPL):
+
+- [ ]  Mejorar y expandir el sistema de notificaciones para reservas y actualizaciones
+- [ ]  Implementar más opciones de filtrado avanzado en la búsqueda de experiencias
+- [ ]  Integrar métodos de pago adicionales y optimizar el proceso de transacción
+- [ ]  Refinar la interfaz de usuario para mayor consistencia visual
+- [ ]  Ampliar la documentación y ayuda disponible para usuarios
+- [ ]  Optimizar el rendimiento general de la aplicación
+- [ ]  Mejorar la accesibilidad para usuarios con necesidades especiales
+- [ ]  Implementar sistema de reseñas y valoraciones más detallado
+
+# Resumen del Feedback Recibido en el Sprint 3:
+
+## Feedback Positivo:
+
+- Mejora significativa en la validación de datos y proceso de registro
+- Mayor fluidez y facilidad de uso en la navegación general
+- Implementación exitosa del sistema de cancelaciones de reservas
+- Optimización notable del rendimiento en dispositivos móviles
+
+## Feedback Negativo
+
+- Necesidad de un sistema de notificaciones más completo y personalizable
+- Limitaciones en las opciones de filtrado avanzado para búsqueda de experiencias
+- Proceso de pago podría ser más intuitivo y ofrecer más opciones
+
+## Recomendaciones de mejora:
+
+- Desarrollar un sistema de notificaciones más robusto y personalizable
+- Expandir las opciones de filtrado y búsqueda avanzada
+- Optimizar y simplificar el proceso de pago con más opciones
+- Mejorar la documentación y ayuda al usuario
+- Implementar más funcionalidades de accesibilidad
