@@ -7,7 +7,7 @@ Fecha de última actualización: 10 de abril de 2025 17:32
 Creado por 1: David Delgado Pallares
 Entregable: Sprint 3
 
-![imagen.png](imagen.png)
+![imagen.png](imagenes/imagen.png)
 
 <aside>
 ISPP - Grupo 10
@@ -225,101 +225,101 @@ plataforma a terceros.
 
 ### Registro e inicio de sesión:
 
-![image.png](image.png)
+![image.png](imagenes/image.png)
 
-![image.png](bb4c7989-d962-4da9-9654-6d6f735dfbbe.png)
+![image.png](imagenes/bb4c7989-d962-4da9-9654-6d6f735dfbbe.png)
 
 ### Interfaz y usabilidad
 
-![image.png](image%201.png)
+![image.png](imagenes/image%201.png)
 
-![image.png](image%202.png)
+![image.png](imagenes/image%202.png)
 
 ### Reserva de experiencias
 
-![image.png](image%203.png)
+![image.png](imagenes/image%203.png)
 
-![image.png](image%204.png)
+![image.png](imagenes/image%204.png)
 
-![image.png](image%205.png)
+![image.png](imagenes/image%205.png)
 
-![image.png](image%206.png)
+![image.png](imagenes/image%206.png)
 
 ### Mis Reservas y Perfil de Usuario
 
-![image.png](image%207.png)
+![image.png](imagenes/image%207.png)
 
-![image.png](image%208.png)
+![image.png](imagenes/image%208.png)
 
-![image.png](image%209.png)
+![image.png](imagenes/image%209.png)
 
 ### Compatibilidad y accesibilidad
 
-![image.png](image%2010.png)
+![image.png](imagenes/image%2010.png)
 
-![image.png](image%2011.png)
+![image.png](imagenes/image%2011.png)
 
-![image.png](image%2012.png)
+![image.png](imagenes/image%2012.png)
 
-![image.png](image%2013.png)
+![image.png](imagenes/image%2013.png)
 
-![image.png](image%2014.png)
+![image.png](imagenes/image%2014.png)
 
-![image.png](image%2015.png)
+![image.png](imagenes/image%2015.png)
 
 ### Experiencia general y feedback
 
-![image.png](image%2016.png)
+![image.png](imagenes/image%2016.png)
 
-![image.png](image%2017.png)
+![image.png](imagenes/image%2017.png)
 
-![image.png](image%2018.png)
+![image.png](imagenes/image%2018.png)
 
-![image.png](image%2019.png)
+![image.png](imagenes/image%2019.png)
 
-![image.png](image%2020.png)
+![image.png](imagenes/image%2020.png)
 
-![image.png](image%2021.png)
+![image.png](imagenes/image%2021.png)
 
-![image.png](image%2022.png)
+![image.png](imagenes/image%2022.png)
 
-![image.png](image%2023.png)
+![image.png](imagenes/image%2023.png)
 
-![image.png](image%2024.png)
+![image.png](imagenes/image%2024.png)
 
-![image.png](image%2025.png)
+![image.png](imagenes/image%2025.png)
 
-![image.png](image%2026.png)
+![image.png](imagenes/image%2026.png)
 
-![image.png](image%2027.png)
+![image.png](imagenes/image%2027.png)
 
-![image.png](image%2028.png)
+![image.png](imagenes/image%2028.png)
 
-![image.png](image%2029.png)
+![image.png](imagenes/image%2029.png)
 
-![image.png](image%2030.png)
+![image.png](imagenes/image%2030.png)
 
-![image.png](image%2031.png)
+![image.png](imagenes/image%2031.png)
 
-![image.png](image%2032.png)
+![image.png](imagenes/image%2032.png)
 
-![image.png](image%2033.png)
+![image.png](imagenes/image%2033.png)
 
-![image.png](image%2034.png)
+![image.png](imagenes/image%2034.png)
 
 ### Feedback General
 
-![image.png](image%2035.png)
+![image.png](imagenes/image%2035.png)
 
-![image.png](image%2036.png)
+![image.png](imagenes/image%2036.png)
 
-![image.png](image%2037.png)
+![image.png](imagenes/image%2037.png)
 
-![image.png](image%2038.png)
+![image.png](imagenes/image%2038.png)
 
-![image.png](image%2039.png)
+![image.png](imagenes/image%2039.png)
 
-![image.png](image%2040.png)
+![image.png](imagenes/image%2040.png)
 
 # Análisis del Feedback Recibido en el Sprint 1
 
@@ -409,67 +409,67 @@ Tras analizar las distintas respuestas de los usuarios pilotos después de proba
 
 ### Registro e inicio de sesión:
 
-![image.png](image%2041.png)
+![image.png](imagenes/image%2041.png)
 
 ### Interfaz y usabilidad
 
-![image.png](image%2042.png)
+![image.png](imagenes/image%2042.png)
 
 ### Reserva de experiencias
 
-![image.png](image%2043.png)
+![image.png](imagenes/image%2043.png)
 
 ### Mis Reservas
 
-![image.png](image%2044.png)
+![image.png](imagenes/image%2044.png)
 
 ### Mi Perfil
 
-![image.png](image%2045.png)
+![image.png](imagenes/image%2045.png)
 
 ### Compatibilidad y accesibilidad
 
-![image.png](image%2046.png)
+![image.png](imagenes/image%2046.png)
 
-![image.png](image%2047.png)
+![image.png](imagenes/image%2047.png)
 
-![image.png](image%2048.png)
+![image.png](imagenes/image%2048.png)
 
 ### Feedback General
 
-![image.png](image%2049.png)
+![image.png](imagenes/image%2049.png)
 
-![image.png](image%2050.png)
+![image.png](imagenes/image%2050.png)
 
-![image.png](image%2051.png)
+![image.png](imagenes/image%2051.png)
 
-![image.png](image%2052.png)
+![image.png](imagenes/image%2052.png)
 
-![image.png](image%2053.png)
+![image.png](imagenes/image%2053.png)
 
-![image.png](image%2054.png)
+![image.png](imagenes/image%2054.png)
 
-![image.png](image%2055.png)
+![image.png](imagenes/image%2055.png)
 
-![image.png](image%2056.png)
+![image.png](imagenes/image%2056.png)
 
-![image.png](image%2057.png)
+![image.png](imagenes/image%2057.png)
 
-![image.png](image%2058.png)
+![image.png](imagenes/image%2058.png)
 
-![image.png](image%2059.png)
+![image.png](imagenes/image%2059.png)
 
-![image.png](image%2060.png)
+![image.png](imagenes/image%2060.png)
 
-![image.png](image%2061.png)
+![image.png](imagenes/image%2061.png)
 
 ### Otras consideraciones
 
-![image.png](image%2062.png)
+![image.png](imagenes/image%2062.png)
 
-![image.png](image%2063.png)
+![image.png](imagenes/image%2063.png)
 
-![image.png](image%2064.png)
+![image.png](imagenes/image%2064.png)
 
 # Análisis del Feedback Recibido en el Sprint 2
 
@@ -521,55 +521,55 @@ Tras analizar las distintas respuestas de los usuarios pilotos después de proba
 
 ### Registro e inicio de sesión:
 
-![image.png](image%2065.png)
+![image.png](imagenes/image%2065.png)
 
-![image.png](image%2066.png)
+![image.png](imagenes/image%2066.png)
 
 ### Interfaz y usabilidad
 
-![image.png](image%2067.png)
+![image.png](imagenes/image%2067.png)
 
 ### Reserva de experiencias
 
-![image.png](image%2068.png)
+![image.png](imagenes/image%2068.png)
 
-![image.png](image%2069.png)
+![image.png](imagenes/image%2069.png)
 
 ### Mi Perfil
 
-![image.png](image%2070.png)
+![image.png](imagenes/image%2070.png)
 
-![image.png](image%2071.png)
+![image.png](imagenes/image%2071.png)
 
 ### Compatibilidad y accesibilidad
 
-![image.png](image%2072.png)
+![image.png](imagenes/image%2072.png)
 
 ### Feedback General
 
-![image.png](image%2073.png)
+![image.png](imagenes/image%2073.png)
 
-![image.png](image%2074.png)
+![image.png](imagenes/image%2074.png)
 
-![image.png](image%2075.png)
+![image.png](imagenes/image%2075.png)
 
-![image.png](image%2076.png)
+![image.png](imagenes/image%2076.png)
 
-![image.png](image%2077.png)
+![image.png](imagenes/image%2077.png)
 
-![image.png](image%2078.png)
+![image.png](imagenes/image%2078.png)
 
-![image.png](image%2079.png)
+![image.png](imagenes/image%2079.png)
 
-![image.png](image%2080.png)
+![image.png](imagenes/image%2080.png)
 
 ### Otras consideraciones
 
-![image.png](image%2081.png)
+![image.png](imagenes/image%2081.png)
 
-![image.png](image%2082.png)
+![image.png](imagenes/image%2082.png)
 
-![image.png](image%2083.png)
+![image.png](imagenes/image%2083.png)
 
 # Análisis del Feedback Recibido en el Sprint 3
 
