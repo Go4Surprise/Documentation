@@ -575,25 +575,14 @@ Tras analizar las distintas respuestas de los usuarios pilotos después de proba
 
 Tras analizar las distintas respuestas de los usuarios pilotos después de probar la aplicación en su versión inicial, hemos identificado las tareas más importantes a solucionar y/o implementar de cara a mejorar la aplicación para la siguiente entrega (PPL):
 
-1. Registro e inicio de sesión
-    1. Mejoras en la validación de datos
-    2. Proceso de registro más fluido
-2. Interfaz y usabilidad
-    1. Mayor satisfacción con la navegación
-    2. Diseño más intuitivo
-3. Reserva de experiencias
-    1. Implementación exitosa de cancelaciones
-    2. Proceso de reserva más claro
-4. Perfil de usuario
-    1. Mejor gestión de preferencias
-    2. Actualización de datos personales
-5. Compatibilidad y accesibilidad
-    1. Mejora en la experiencia móvil
-    2. Optimización del rendimiento
-6. Feedback general
-    1. Mayor satisfacción general con la aplicación
-    2. Sugerencias de mejoras menores
-    3. Valoración positiva de las actualizaciones implementadas
+- [ ]  Mejorar y expandir el sistema de notificaciones para reservas y actualizaciones
+- [ ]  Implementar más opciones de filtrado avanzado en la búsqueda de experiencias
+- [ ]  Integrar métodos de pago adicionales y optimizar el proceso de transacción
+- [ ]  Refinar la interfaz de usuario para mayor consistencia visual
+- [ ]  Ampliar la documentación y ayuda disponible para usuarios
+- [ ]  Optimizar el rendimiento general de la aplicación
+- [ ]  Mejorar la accesibilidad para usuarios con necesidades especiales
+- [ ]  Implementar sistema de reseñas y valoraciones más detallado
 
 # Resumen del Feedback Recibido en el Sprint 3:
 
@@ -606,12 +595,14 @@ Tras analizar las distintas respuestas de los usuarios pilotos después de proba
 
 ## Feedback Negativo
 
-- Algunos usuarios reportan dificultades ocasionales con las notificaciones de reserva
-- Necesidad de más opciones de filtrado avanzado para búsqueda de experiencias
-- Solicitud de más métodos de pago disponibles
+- Necesidad de un sistema de notificaciones más completo y personalizable
+- Limitaciones en las opciones de filtrado avanzado para búsqueda de experiencias
+- Proceso de pago podría ser más intuitivo y ofrecer más opciones
 
 ## Recomendaciones de mejora:
 
-- Implementar un sistema más robusto de notificaciones para reservas y actualizaciones
-- Expandir las opciones de filtrado y búsqueda de experiencias
-- Integrar más métodos de pago y mejorar el proceso de transacción
+- Desarrollar un sistema de notificaciones más robusto y personalizable
+- Expandir las opciones de filtrado y búsqueda avanzada
+- Optimizar y simplificar el proceso de pago con más opciones
+- Mejorar la documentación y ayuda al usuario
+- Implementar más funcionalidades de accesibilidad
