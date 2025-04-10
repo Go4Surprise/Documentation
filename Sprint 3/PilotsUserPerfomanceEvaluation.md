@@ -7,7 +7,7 @@ Fecha de última actualización: 10 de abril de 2025 19:22
 Creado por 1: David Delgado Pallares
 Entregable: Sprint 3
 
-![imagen.png](imagen.png)
+![imagen.png](imagenes/imagen.png)
 
 <aside>
 ISPP - Grupo 10
