@@ -191,4 +191,4 @@ Si inicias sesión como un usuario administrador, en la página principal de la 
 
 # 4. Demo de la aplicación
 
-Enlace al vídeo de la demo en formato .mp4: [\[Enlace a la demo\]](https://drive.google.com/file/d/1CVfznMEtAUXETZ83HgVxtZcD6xQV9SoD/view?usp=drive_link)
+Enlace al vídeo de la demo en formato .mp4: [\[Enlace a la demo\]](https://drive.google.com/file/d/12AOyrxmRNSbtfJmiP-8e6thYMG45nGrZ/view?usp=drive_link)
