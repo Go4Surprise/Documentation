@@ -1,5 +1,3 @@
-# Evaluación de desempeño individual
-
 <div align="right">
     <img src="../logo_US.png" alt="Go4Surprise Logo" width="100">
 </div>
@@ -7,7 +5,7 @@
 
 # Grupo 10 - Go4Surprise
 
-## 10 - KBreport
+## 10 - performanceEvaluation
 
 ### Sprint 3
 
@@ -15,7 +13,7 @@
 
 </div>
 
-**Made by:** José Manuel Miret
+**Made by:** Pablo Rodríguez
 
 
 ### Integrantes
@@ -43,47 +41,7 @@
 
 # Evaluación de desempeño individual
 
-Entregable: Segundo
-
-**Miembros del equipo:**
-
-- Abouri, Mohamed
-
-- Astudillo, Mario
-
-- Barrancos, María
-
-- Cabello, Rafael
-
-- Chica, Manuel
-
-- Delgado, David
-
-- Domínguez, Gonzalo
-
-- Mesa, Virginia
-
-- Miret, José Manuel
-
-- Nicolade, Alejandro
-
-- Palacios, Manuel
-
-- Rodrígez, Pablo
-
-- Romero, Rubén
-
-- Sánchez, Paula
-
-- Vergara, Ramón
-
-Fecha: 26 de febrero de 2025
-
-Version: 2.0
-
-Agreed Individual Performance Evaluation
-
-Date: 13/03/2025
+**Entregable**: Tercero
 
 Resumen
 
