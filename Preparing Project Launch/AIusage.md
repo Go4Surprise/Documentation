@@ -7,7 +7,7 @@
 
 ## 10 - AIusage
 
-### PPL
+### Preparing Project Launch
 
 <img src="../logo_Go4Surprise.png" alt="Go4Surprise Logo" width="200">
 
