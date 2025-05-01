@@ -64,7 +64,7 @@ En este apartado se presenta una tabla con todos los datos necesarios para lleva
 | Número de tarjeta de la pasarela de pago | 4242 4242 4242 4242 (fecha de caducidad y CVV aleatorios) |
 | Correo electrónico PayPal | sb-g9ols39719922@personal.example.com |
 | Contraseña PayPal | ,TqB5-:n |
-| Url de la plataforma desplegada  | https://s3-go4-frontend-dot-ispp-2425-g10.ew.r.appspot.com/ |
+| Url de la plataforma desplegada  | https://ppl-go4-frontend-dot-ispp-2425-g10.ew.r.appspot.com/ |
 | Url del repositorio de Github de código | https://github.com/Go4Surprise/Go4Surprise |
 | Url del repositorio de Github de documentación  | https://github.com/Go4Surprise/Documentation |
 | Url del la herramienta de gestión del tiempo | https://app.timecamp.com/ |
@@ -79,7 +79,7 @@ Una vez está en nuestra aplicación, encontrará una página informativa. Pulse
 
 ## Identificación de usuario
 
-### 1. **Registro en el sistema (ligeras modificaciones respecto al Sprint 2):**
+### 1. **Registro en el sistema (ligeras modificaciones respecto al Sprint 3):**
 - Para crear una nueva cuenta en nuestro sistema, deberá pulsar el botón verde "Registrate" de la pantalla de inicio.
 - Una vez haya sido redirigido a nuestra pantalla de registro, deberá rellenar el formulario con sus datos personales, aceptar nuestra
 política de privacidad y condiciones de uso y pulsar en el botón azul "Registrarse".
@@ -87,23 +87,24 @@ política de privacidad y condiciones de uso y pulsar en el botón azul "Registr
 - Antes de iniciar sesión, deberá verificar su correo electrónico, para ello, vaya a su bandeja de correo y pulse sobre el botón "Verificar mi correo" en el email que le hemos enviado. (Compruebe la bandeja de Spam)
 - Si no ha habido errores, deberá ver una pantalla verificando su registro. Para continuar a nuestra aplicación, pulse sobre el botón azul "Continuar".
 - Al ser su primera vez en la aplicación, deberá contestar un rápido cuestionario para conocer sus preferencias. [Punto 3](#3-selección-de-preferencias-ligeras-modificaciones-respecto-al-sprint-2)
+- Registro con Google: si prefiere registrarse con su cuenta de Google, pulse sobre el icono de Google en la página de inicio de sesión. A continuación, seleccione la cuenta con la que quiere registrarse. Cuando añada sus datos de Google, se le redirigirá a una pantalla para completar su perfil con nosotros. Pulse en guardar para confirmar los datos.
+- Al ser su primera vez en la aplicación, deberá contestar un rápido cuestionario para conocer sus preferencias. [Punto 3]
 
 
-### 2. **Inicio de sesión: (implementado en Sprint 1)**
-- Para iniciar sesión en nuestro sistema, deberá rellenar el formulario de la pantalla principal con sus credenciales, y pulsar sobre
-el botón azul "Iniciar sesión".
+### 2. **Inicio de sesión: (ligeras modificaciones respecto al Sprint 3)**
+- Para iniciar sesión en nuestro sistema, deberá rellenar el formulario de la pantalla principal con sus credenciales, y pulsar sobre el botón azul "Iniciar sesión".
 - Si sus credenciales son correctas, será redirigido a la pantalla principal de nuestra aplicación.
-- Inicio de sesión con Google: no implementado al completo
+- Si prefiere iniciar sesión con Google, solo tiene que pulsar sobre el icono de Google en la página de inicio de sesión. A continuación seleccione la cuenta de Google con la que se registro en nuestro sistema. Si todo ha ido bien, deberá ser redirigido hacia nuestra página principal.
 
 
-### 3. **Selección de preferencias (ligeras modificaciones respecto al Sprint 2):**
+### 3. **Selección de preferencias (implementado en Sprint 3):**
 - Tras entrar por primera vez en nuestro sistema, deberá completar un rápido y divertido formulario para que podamos conocer sus preferencias y brindarle la mejor experiencia posible.
 - Pulse sobre el botón azul "Empezar cuestionario". El formulario está formado por 6 preguntas, cada una de ellas es de opción múltiple, es decir, puede seleccionar varias respuestas, a no ser que seleccione "Nada en especial".
 - Para pasar a la siguiente pregunta deberá pulsar sobre el botón rosa "Siguiente" en la parte inferior de la pantalla. Si quiere cambiar alguna respuesta antes de terminar el formulario, podrá volver atrás pulsando sobre el botón blanco "Atrás"
 - Una vez haya respondido las 6 preguntas, será redirigido a la pantalla principal de nuestra aplicación.
 
 
-### 4. **Gestión del perfil (ligeras modificaciones respecto al Sprint 2):**
+### 4. **Gestión del perfil (implementado en Sprint 3):**
 - En la pantalla principal de la aplicación, encontrará un icono de usuario en la parte superior derecha de la pantalla (si tiene foto de perfil, le aparecerá en lugar del icono de usuario). Si pulsa sobre el icono, será enviado a la pantalla de gestión de su usuario.
 - Si pulsa sobre el botón "Editar perfil", podrá modificar su nombre, apellidos, nombre de usuario, correo, número de teléfono y fecha de nacimiento. Además, hemos incluido la posibilidad de poner una foto de perfil. Para ello, deberá pulsar sobre el botón azul "Seleccinar Imagen". Busque en sus archivos la foto que más le guste y selecciónela.  Para confirmar los cambios deberá pulsar sobre el botón azul "Guardar". Si no quiere confirmar los cambios, pulse el botón rojo "Cancelar".
 - Si pulsa sobre el botón "Cambiar contraseña", podrá modificar la contraseña de su cuenta. Tendrá que introducir su contraseña actual y la nueva contraseña. Para confirmar los cambios deberá pulsar sobre le botón azul "Guardar". Si no quiere confirmar los cambios, pulse el botón rojo "Cancelar".
@@ -123,7 +124,7 @@ el botón azul "Iniciar sesión".
 
 ## Reserva de experiencias
 
-### 6. **Reserva de una experiencia (ligeras modificaciones respecto al Sprint 2):**
+### 6. **Reserva de una experiencia (implementado en Sprint 3):**
 - Para poder registrar una reserva en nuestro sistema, deberá pulsar el botón azul "Sorpréndeme" que aparece en el centro de la pantalla.
 - Este botón le llevará a un formulario, el cuál deberá rellenar con datos importantes para la gestión de su experiencia. 
 - Verá un desglose del coste de la experiencia al final del formulario.
@@ -134,7 +135,7 @@ el botón azul "Iniciar sesión".
 - Si comprueba su correo electrónico, verá un email con los detalles de su reserva.
 
 
-### 7. **Gestión de mis reservas (cambios importantes respecto al Sprint 2):**
+### 7. **Gestión de mis reservas (implementado en Sprint 3):**
 - En la parte superior de la pantalla principal aparecerá cuántos días quedan para su próxima experiencia con nosotros.
 - Si quiere consultar información sobre sus reservas, debe navegar hacia la sección de "Reservas" en la [gestión del perfil](#4-gestión-del-perfil-ligeras-modificaciones-respecto-al-sprint-2).
 - En esta pantalla podrá visualizar los detalles de sus reservas activas, pasadas y canceladas.
@@ -166,7 +167,7 @@ Si inicias sesión como un usuario administrador, en la página principal de la 
 - Puedes eliminar un usuario pulsando sobre el botón rojo inferior "Eliminar Usuario".
 
 
-### 10. **Gestión de reservas (ligeras modificaciones respecto al Sprint 2):**
+### 10. **Gestión de reservas (implementado en Sprint 3):**
 - Si pulsas sobre la tarjeta "Gestión de Reservas", se mostrará una lista de todos las reservas del sistema. Pulsando sobre cualquiera de las reservas podrás acceder a los detalles de la misma.
 - Puedes editar una reserva modificando directamente los campos del formulario. También está la opción de añadir los datos de la experiencia que se va asignar al usuario. Para guardar los cambios, pulsa sobre el botón azul "Actualizar Reserva".
 - Si volvemos al listado de reservas, podemos eliminar cualquier reserva pulsando sobre el botón rojo "Eliminar". Aparecerá una pestaña de confirmación, debemos pulsar el botón rojo "ELIMINAR" para confirmar la operación.
