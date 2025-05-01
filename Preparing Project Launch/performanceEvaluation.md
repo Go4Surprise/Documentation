@@ -54,22 +54,21 @@ En este documento se recoge la contribución individual de cada miembro del equi
 |  | **Agreed Individual Performance Evaluation** |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Student** | **#DP1** | **#S1** | **#S2** | **#S3** | **#PPL** | **#WPL** | **Total** | **Weight** |
-| Abouri, Mohamed | 9.33 | 8.5 | 9.93 | 8.57 |  |  |  |  |
-| Astudillo, Mario | 9.75 | 8.64 | 9.86 | 9.86 |  |  |  |  |
-| Barrancos, María | 9.25 | 7.21 | 9.79 | 9.5 |  |  |  |  |
-| Cabello, Rafael | 9.67 | 8.57 | 9.93 | 9.86 |  |  |  |  |
-| Chica, Manuel | 9.33 | 4.86 | 9.36 | 2.23 |  |  |  |  |
-| Delgado, David | 9.75 | 9.64 | 10 | 9.86 |  |  |  |  |
-| Domínguez, Gonzalo | 9.42 | 8.29 | 9.86 | 8.93 |  |  |  |  |
-| Mesa, Virginia | 9.83 | 9.29 | 9.93 | 9.93 |  |  |  |  |
-| Miret, José Manuel | 9.92 | 9.93 | 10 | 10 |  |  |  |  |
-| Nicolade, Alejandro | 9.5 | 8.57 | 9.86 | 9.64 |  |  |  |  |
-| Palacios, Manuel | 9.75 | 8.71 | 10 | 9.93 |  |  |  |  |
-| Rodrígez, Pablo | 9.92 | 9.71 | 10 | 9.93 |  |  |  |  |
-| Romero, Rubén | 9.59 | 8.29 | 9.86 | 9.79 |  |  |  |  |
-| Sánchez, Paula | 9.83 | 9.57 | 9.86 | 9.93 |  |  |  |  |
-| Vergara, Ramón | 9.33 | 9.00 | 9.86 | 9.86 |  |  |  |  |
-| **Total** | 144.34 | 128.78 | 148.1 | 137,82 |  |  |  |  |
+| Abouri, Mohamed | 9.33 | 8.5 | 9.93 | 8.57 | 9.27 |  |  |  |
+| Astudillo, Mario | 9.75 | 8.64 | 9.86 | 9.86 | 9.91 |  |  |  |
+| Barrancos, María | 9.25 | 7.21 | 9.79 | 9.5 | 9.91 |  |  |  |
+| Cabello, Rafael | 9.67 | 8.57 | 9.93 | 9.86 | 9.91 |  |  |  |
+| Delgado, David | 9.75 | 9.64 | 10 | 9.86 | 9.82 |  |  |  |
+| Domínguez, Gonzalo | 9.42 | 8.29 | 9.86 | 8.93 | 9.27 |  |  |  |
+| Mesa, Virginia | 9.83 | 9.29 | 9.93 | 9.93 | 9.91 |  |  |  |
+| Miret, José Manuel | 9.92 | 9.93 | 10 | 10 | 10 |  |  |  |
+| Nicolade, Alejandro | 9.5 | 8.57 | 9.86 | 9.64 | 9.82 |  |  |  |
+| Palacios, Manuel | 9.75 | 8.71 | 10 | 9.93 | 10 |  |  |  |
+| Rodrígez, Pablo | 9.92 | 9.71 | 10 | 9.93 | 9.91 |  |  |  |
+| Romero, Rubén | 9.59 | 8.29 | 9.86 | 9.79 | 9.82 |  |  |  |
+| Sánchez, Paula | 9.83 | 9.57 | 9.86 | 9.93 | 10 |  |  |  |
+| Vergara, Ramón | 9.33 | 9.00 | 9.86 | 9.86 | 10 |  |  |  |
+| **Total** | 144.34 | 128.78 | 148.1 | 137,82 | 137,55 |  |  |  |
 
 ## 1.2. Cálculo
 

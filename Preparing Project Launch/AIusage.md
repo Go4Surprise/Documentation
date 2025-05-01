@@ -1,4 +1,4 @@
-#<div align="right">
+<div align="right">
     <img src="../logo_US.png" alt="Go4Surprise Logo" width="100">
 </div>
 <div align="center">
