@@ -7,7 +7,7 @@
 
 ## 10 - Pilot Users Commitment Agreement
 
-### Sprint 3
+### PPL
 
 <img src="../logo_Go4Surprise.png" alt="Go4Surprise Logo" width="200">
 
