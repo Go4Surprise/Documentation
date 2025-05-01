@@ -7,7 +7,7 @@
 
 ## 10 - Pilot Users Commitment Agreement
 
-### Sprint 2
+### Sprint 3
 
 <img src="../logo_Go4Surprise.png" alt="Go4Surprise Logo" width="200">
 
