@@ -74,7 +74,7 @@ En primer lugar, hemos tenido problemas en la división de tareas. Algunos integ
 
 Además, hemos incluido personal en el equipo de márketing, para que a la hora de elaborar nuevos videos para las redes sociales y atraer nuevos clientes ya no solamente habrá dos persona editandolos. Hemos asignado a un jefe de edición que gestionará el como se montan y elaboran el resto de videos, tendiendo a otras personas del grupo ayudando.
 
-Por último, hemos tenido problemas al elaborar el login social con Google. Desde un inicio esa nueva funcionalidad añadida mientras estábamso en producción nos dio problemas y no conseguimos implementar correctamente. Sin embargo, el nuevo equipo de gestión de calidad ha podido encontrar una nueva forma de solucionar dicho problema,
+Por último, hemos tenido problemas al elaborar el login social con Google. Desde un inicio esa nueva funcionalidad añadida mientras estábamso en producción nos dio problemas y no conseguimos implementar correctamente. Sin embargo, el nuevo equipo de gestión de calidad ha podido encontrar una nueva forma de solucionar dicho problema, configurando de nuevo la seguridad de esa parte y pasar de forma correcta los datos para que se pueda cerrar la pestaña correctamente.
 
 ---
 
