@@ -87,14 +87,12 @@ política de privacidad y condiciones de uso y pulsar en el botón azul "Registr
 - Antes de iniciar sesión, deberá verificar su correo electrónico, para ello, vaya a su bandeja de correo y pulse sobre el botón "Verificar mi correo" en el email que le hemos enviado. (Compruebe la bandeja de Spam)
 - Si no ha habido errores, deberá ver una pantalla verificando su registro. Para continuar a nuestra aplicación, pulse sobre el botón azul "Continuar".
 - Al ser su primera vez en la aplicación, deberá contestar un rápido cuestionario para conocer sus preferencias. [Punto 3](#3-selección-de-preferencias-ligeras-modificaciones-respecto-al-sprint-2)
-- Registro con Google: si prefiere registrarse con su cuenta de Google, pulse sobre el icono de Google en la página de inicio de sesión. A continuación, seleccione la cuenta con la que quiere registrarse. Cuando añada sus datos de Google, se le redirigirá a una pantalla para completar su perfil con nosotros. Pulse en guardar para confirmar los datos.
-- Al ser su primera vez en la aplicación, deberá contestar un rápido cuestionario para conocer sus preferencias. [Punto 3]
+- Registro con Google: no implementado al completo.
 
 
-### 2. **Inicio de sesión: (ligeras modificaciones respecto al Sprint 3)**
+### 2. **Inicio de sesión: (implementado en Sprint 1)**
 - Para iniciar sesión en nuestro sistema, deberá rellenar el formulario de la pantalla principal con sus credenciales, y pulsar sobre el botón azul "Iniciar sesión".
 - Si sus credenciales son correctas, será redirigido a la pantalla principal de nuestra aplicación.
-- Si prefiere iniciar sesión con Google, solo tiene que pulsar sobre el icono de Google en la página de inicio de sesión. A continuación seleccione la cuenta de Google con la que se registro en nuestro sistema. Si todo ha ido bien, deberá ser redirigido hacia nuestra página principal.
 
 
 ### 3. **Selección de preferencias (implementado en Sprint 3):**
