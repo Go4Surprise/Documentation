@@ -115,5 +115,6 @@ El uso de IA en este sprint ha sido clave no solo para la implementación inicia
 | José Manuel Miret          | Introducir una fecha para el registro       | [Ver conversación](https://chatgpt.com/share/67d349b1-41c8-8004-a1ba-ba82fc78ac05)         |
 | José Manuel Miret          | Imágenes para el StoryBoard                 | [Ver conversación](https://chatgpt.com/share/67dd50b9-a75c-8003-b78b-dfb30848de3a)         |
 | José Manuel Miret          | Impacto legal Go4Surprise                   | [Ver conversación](https://chatgpt.com/share/67e49abd-fba8-8008-acd8-dec786355b06)         |
-| Virginia Mesa Pérez        | Pasar documentos a .md                      | [Ver conversación](https://chatgpt.com/share/67f4deef-38d4-800e-8d93-9e95f5334323legales)         |
-| Virginia Mesa Pérez        | Pruebas                     | [Ver conversación](https://chatgpt.com/share/67f80677-6764-800e-a508-decb8ad86c9e)         |
+| Virginia Mesa Pérez        | Pasar documentos a .md                      | [Ver conversación](https://chatgpt.com/share/67f4deef-38d4-800e-8d93-9e95f5334323legales)  |
+| Virginia Mesa Pérez        | Pruebas                                     | [Ver conversación](https://chatgpt.com/share/67f80677-6764-800e-a508-decb8ad86c9e)         |
+| Manuel Palacios            | Solucionar errores de Codacy                | [Ver conversación](https://chatgpt.com/share/6813b0b8-552c-8011-a32e-fcc0d84b1b92)         |
