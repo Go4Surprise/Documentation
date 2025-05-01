@@ -1,4 +1,4 @@
-#<div align="right">
+<div align="right">
     <img src="../logo_US.png" alt="Go4Surprise Logo" width="100">
 </div>
 <div align="center">
@@ -7,7 +7,7 @@
 
 ## 10 - AIusage
 
-### PPL
+### Preparing Project Launch
 
 <img src="../logo_Go4Surprise.png" alt="Go4Surprise Logo" width="200">
 
