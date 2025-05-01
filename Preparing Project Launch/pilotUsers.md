@@ -636,7 +636,7 @@ Tras analizar las distintas respuestas de los usuarios pilotos después de proba
 - [ ]  **Chat entre usuarios** que han valorado experiencias para compartir opiniones.
 
 
-# Resumen del Feedback Recibido en el Sprint 3:
+# Resumen del Feedback Recibido en el Preparing Project Launch:
 
 ## Feedback Positivo:
 
