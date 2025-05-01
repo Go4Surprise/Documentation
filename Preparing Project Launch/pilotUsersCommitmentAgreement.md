@@ -21,8 +21,7 @@
 - Mohamed Abouri  
 - Mario Astudillo Fierro  
 - María Barrancos Márquez  
-- Rafael Cabello Ranea  
-- Manuel Chica López  
+- Rafael Cabello Ranea   
 - David Delgado Pallares  
 - José Gonzalo Domínguez Moreno  
 - Virginia Mesa Pérez  
