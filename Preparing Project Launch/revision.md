@@ -43,6 +43,7 @@
 | Fecha | Miembro del equipo | Contribución |
 | --- | --- | --- |
 | 01/05/2025 | Manuel Palacios Pineda | Primera versión basada en el documento del Sprint 3 |
+| 01/05/2025 | Manuel Palacios Pineda | Versión final con nuevo despliegue |
 
 # Resumen del documento
 
@@ -74,12 +75,12 @@ En este apartado se presenta una tabla con todos los datos necesarios para lleva
 
 
 # 2. Casos de uso
-A continuación listamos los casos de uso desarrollados en nuestro sistema y proporcionamos una guía paso a paso para que los puedan probar. En esta fase del proyecto, con la aplicación casi terminada, nos hemos centrado en mejorar la apariencia de la página informativa y la principal de la aplicación.
+A continuación listamos los casos de uso desarrollados en nuestro sistema y proporcionamos una guía paso a paso para que los puedan probar. En esta fase del proyecto, con la aplicación casi terminada, nos hemos centrado en mejorar la apariencia de la página informativa y la principal de la aplicación, así como solucionar algunos bugs.
 Una vez está en nuestra aplicación, encontrará una página informativa. Pulse sobre el botón "Comenzar" en la parte central de la pantalla.
 
 ## Identificación de usuario
 
-### 1. **Registro en el sistema (ligeras modificaciones respecto al Sprint 3):**
+### 1. **Registro en el sistema (implementado en Sprint 3):**
 - Para crear una nueva cuenta en nuestro sistema, deberá pulsar el botón verde "Registrate" de la pantalla de inicio.
 - Una vez haya sido redirigido a nuestra pantalla de registro, deberá rellenar el formulario con sus datos personales, aceptar nuestra
 política de privacidad y condiciones de uso y pulsar en el botón azul "Registrarse".
