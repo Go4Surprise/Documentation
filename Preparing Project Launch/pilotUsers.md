@@ -598,25 +598,21 @@ Tras analizar las distintas respuestas de los usuarios pilotos después de proba
 
 ### Interfaz y usabilidad
 
-![image.png](imagenes/image%2067.png)
+![image.png](imagenes/image%2084.png)
 
 ### Feedback General
 
-![image.png](imagenes/image%2073.png)
+![image.png](imagenes/image%2085.png)
 
-![image.png](imagenes/image%2074.png)
+![image.png](imagenes/image%2086.png)
 
-![image.png](imagenes/image%2075.png)
+![image.png](imagenes/image%2087.png)
 
-![image.png](imagenes/image%2076.png)
+![image.png](imagenes/image%2088.png)
 
-![image.png](imagenes/image%2077.png)
+![image.png](imagenes/image%2089.png)
 
-![image.png](imagenes/image%2078.png)
-
-![image.png](imagenes/image%2079.png)
-
-![image.png](imagenes/image%2080.png)
+![image.png](imagenes/image%2090.png)
 
 # Análisis del Feedback Recibido en el Preparing Project Launch
 
