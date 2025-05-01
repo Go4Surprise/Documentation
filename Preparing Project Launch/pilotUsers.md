@@ -590,7 +590,7 @@ Tras analizar las distintas respuestas de los usuarios pilotos después de proba
 - Implementar más funcionalidades de accesibilidad
 
 
-# Feedback Recibido en el Sprint 3
+# Feedback Recibido en el Preparing Project Launch
 
 ### En total, hemos recibido feedback de 4 de nuestros usuarios piloto:
 
@@ -618,38 +618,56 @@ Tras analizar las distintas respuestas de los usuarios pilotos después de proba
 
 ![image.png](imagenes/image%2080.png)
 
-# Análisis del Feedback Recibido en el Sprint 3
+# Análisis del Feedback Recibido en el Preparing Project Launch
 
-Tras analizar las distintas respuestas de los usuarios pilotos después de probar la aplicación en su versión inicial, hemos identificado las tareas más importantes a solucionar y/o implementar de cara a mejorar la aplicación para la siguiente entrega (PPL):
+Tras analizar las distintas respuestas de los usuarios pilotos después de probar la aplicación, hemos identificado las tareas más importantes a solucionar y/o implementar de cara a mejorar la aplicación para la siguiente entrega (WPL):
 
-- [ ]  Mejorar y expandir el sistema de notificaciones para reservas y actualizaciones
-- [ ]  Implementar más opciones de filtrado avanzado en la búsqueda de experiencias
-- [ ]  Integrar métodos de pago adicionales y optimizar el proceso de transacción
-- [ ]  Refinar la interfaz de usuario para mayor consistencia visual
-- [ ]  Ampliar la documentación y ayuda disponible para usuarios
-- [ ]  Optimizar el rendimiento general de la aplicación
-- [ ]  Mejorar la accesibilidad para usuarios con necesidades especiales
-- [ ]  Implementar sistema de reseñas y valoraciones más detallado
+- [ ]  **Funcionalidad de eliminar cuenta no funciona** correctamente:
+    - El botón no responde o no lleva a ninguna parte.
+    - El usuario sigue logueado tras intentar eliminar la cuenta.
+    - Asegurarse de que se borra correctamente el usuario en backend y se redirige adecuadamente en frontend.
+- [ ]  **Validación en formulario de perfil**:
+    - Falta validación de campos como la fecha de nacimiento.
+- [ ]  **Agregar botón de “Mis reservas” en pantalla principal**, sin tener que entrar al perfil.
+- [ ]  **Hacer que el login se pueda confirmar con Enter**, no solo con clic.
+- [ ]  **Modal de confirmación tras registro** que diga “Te has registrado correctamente”.
+- [ ]  **Permitir crear una reserva solo si ha sido pagada correctamente**.
+- [ ]  **Mejorar la pantalla de detalles de la reserva**, que se considera visualmente más débil que el resto.
+- [ ]  **Mejorar visualmente la interfaz**, hacerla más llamativa.
+- [ ]  **Hacer que la sección de opiniones sea responsive**.
+- [ ]  **Separadores poco estéticos** en el formulario de cambiar contraseña.
+- [ ]  **Imagen de actividad gastronómica borrosa** – reemplazar por una de mayor calidad.
+- [ ]  **Chat entre usuarios** que han valorado experiencias para compartir opiniones.
+
 
 # Resumen del Feedback Recibido en el Sprint 3:
 
 ## Feedback Positivo:
 
-- Mejora significativa en la validación de datos y proceso de registro
-- Mayor fluidez y facilidad de uso en la navegación general
-- Implementación exitosa del sistema de cancelaciones de reservas
-- Optimización notable del rendimiento en dispositivos móviles
+- ✅ Interfaz fácil e intuitiva.
+- ✅ Encuesta inicial muy completa y atractiva.
+- ✅ Experiencia con el formulario de feedback excelente (valoración media: 9/10).
+- ✅ Funcionalidades como cambio de contraseña, login, reservas y perfil funcionan correctamente.
 
 ## Feedback Negativo
 
-- Necesidad de un sistema de notificaciones más completo y personalizable
-- Limitaciones en las opciones de filtrado avanzado para búsqueda de experiencias
-- Proceso de pago podría ser más intuitivo y ofrecer más opciones
+- ❌ **Eliminar cuenta no funciona**:
+    - El botón no hace nada o no redirige correctamente.
+    - Aunque parece eliminarse, el usuario sigue logueado.
+    - No hay confirmación de eliminación.
+- ⚠️ **Credenciales de prueba inválidas**.
+- ⚠️ **No se puede crear reservas pagadas correctamente** (permite crear sin pagar).
+- ⚠️ **Validación incompleta en edición de perfil** (por ejemplo, se puede poner una fecha sin validación).
+- ⚠️ **Botón de login no se puede accionar con Enter**.
+- ⚠️ **Imagen de actividad gastronómica borrosa**.
+- ⚠️ **Separadores feos en el formulario de cambiar contraseña**.
 
 ## Recomendaciones de mejora:
 
-- Desarrollar un sistema de notificaciones más robusto y personalizable
-- Expandir las opciones de filtrado y búsqueda avanzada
-- Optimizar y simplificar el proceso de pago con más opciones
-- Mejorar la documentación y ayuda al usuario
-- Implementar más funcionalidades de accesibilidad
+- 🎯 **Modal de confirmación tras registrarse** (“te has registrado correctamente”).
+- 🧭 **Botón de “Mis reservas” visible en la pantalla principal**, sin tener que ir al perfil.
+- 🧩 **Pantalla de detalles de reserva muy simple**, debería ser más coherente con el diseño general.
+- 🔄 **Opiniones de usuarios**:
+    - Debería mostrar opiniones de experiencias directamente.
+    - Hacer que el bloque de opiniones sea responsive y se adapte al tamaño de pantalla.
+- 💬 **Añadir chat entre usuarios** que hayan valorado experiencias, para compartir opiniones.
