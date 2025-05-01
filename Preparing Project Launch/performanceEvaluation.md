@@ -484,6 +484,10 @@ Durante este sprint, me he encargado de diversas tareas:
 
 ## Abouri, Mohamed:
 
+Durante este entregable, mis tareas principales han sido refactorizar el código para corregir los errores del codacy y intentar corregir el problema de la autenticación con google que no estaba funcionando en el despliegue y que al final ha sido solucionado por el compañero Rafael Cabello.
+
+Finalmente, he asistido a las clases y reuniones del equipo.
+
 
 ## Astudillo Fierro, Mario:
 
@@ -501,13 +505,16 @@ Aportaciones al Sprint:
 - Desarrollo de contenido de marketing digital: edición y publicación de videos para TikTok basados en tendencias actuales, adaptados al tono y estilo de la marca para maximizar alcance y engagement.
 - Participación activa en actividades, reuniones y clase
 
+
 ## Cabello, Rafael:
 
 Para este entregable, la tarea principal a la que me he dedicado ha sido en corregir la autentificación con google en el sistema, la cuál no estaba funcionando correctamente en el despliegue. También he adaptado las pruebas de rendimiento, ejecutándolas en el despliegue y completando en el documento de pruebas un apartado con esto. También me he encargado nuevamente de realizar los despliegues necesarios, y he asistido a las reuniones y clases.
 
+
 ## Delgado, David:
 
 Para este entregable, he ayudado a realizar la presentación, en concreto a la planificación ROI y las métricas de los KPIs, he elaborado los documentos de los usuarios pilotos, actualizando el performance evaluation de los usuarios pilotos y el de pilotUsers, he gestionado los usuarios pilotos para este PPL, elaborando el mandual de usuario y he ayudado al project manager a gestionar el equipo.
+
 
 ## Domínguez, Gonzalo:
 
@@ -517,14 +524,20 @@ En este Sprint, mi participación ha abarcado diversas áreas clave del proyecto
 - Funcionalidad de Enter: en algunas páginas con formularios se ha añadido la posibilidad de confirmar/enviar el formularion sin la necesidad de pulsar el botón.
 - **Asistencia** a las 2 clases y dos reuniones.
 
+
 ## Mesa Pérez, Virginia:
+
+En este Sprint, he cooperado en el equipo de marketing con las redes sociales, he asistido a las clases y reuniones , he redactado documentos a .md y creado contenido para promocionar la app. Además he redactado los documentos de segmentación de mercado y protopersonas.
 
 
 ## Miret, Jose Manuel:
 
 Para esta fase del proyecto, mi contribución al proyecto ha sido: Elaborar los guiones para algunos anuncios y videos para redes sociales, actuar en algunos de los vidoes para redes sociales, dar nuevas ideas para las redes sociales, editar videos, organizar el equipo como project manager, elaborar la presentación, añadir la información a la BCC incluyendo lo de la semana 9 y 10, distribuir las tareas a realizar en esta fase, ayudar a elaborar la planificación de marketing, elaborar el KbReport, corregir el documento de LessonsLearnedS1 elaborado por Gonzalo, gestionar las redes sociales, sobre todo TikTok y planificar la fase del PPL.
 
+
 ## Nicolalde, Alejandro:
+
+He implementado mejoras estéticas en la  principal de la aplicación web con el objetivo de optimizar la experiencia del usuario y reforzar la imagen de marca. Entre los cambios más destacados se encuentra la incorporación de los videos publicitarios publicados en YouTube, los cuales aportan dinamismo, captan la atención del visitante y transmiten de forma directa el valor de las experiencias ofrecidas. Además, se ha mejorado la sección de contacto para hacerla más funcional: ahora, al pulsar sobre la dirección de correo electrónico, se abre automáticamente la aplicación de correo predeterminada del dispositivo, facilitando y agilizando la comunicación con los clientes.
 
 
 ## Palacios, Manuel:
@@ -536,13 +549,16 @@ Mi contribución al proyecto en la fase “Preparing Project Launch” ha sido:
 - He creado una guía detallada de cómo revisar nuestro software acompañada de los datos necesarios para dicha revisión.
 - He asistido a todas las clases y reuniones organizadas.
 
+
 ## Rodríguez, Pablo:
 
 Durante este sprint mi participación se ha centrado principalmente en la creación de contenidos para redes sociales, la creación de demos y distintos videos publicitarios, revisión de las presentaciones y presentar en clase. También he asistido a todas las clases y reuniones.
 
+
 ## Romero, Rubén:
 
 Durante este sprint he participado activamente en la grabación del video dirigido al cliente, desempeñando el papel de actor. Además, he colaborado en la generación de ideas para los vídeos destinados a las redes sociales, aportando propuestas creativas para mejorar su impacto. También me he encargado de compartir nuestras redes y publicaciones, contribuyendo a aumentar la visibilidad del proyecto.
+
 
 ## Sánchez Gómez, Paula:
 
@@ -554,7 +570,10 @@ Mi contribución al proyecto durante la fase *“Preparing Project Launch”* ha
 - Mejora de la estética de la landing page.
 - Apoyo en la elaboración de las presentaciones de esta fase. También, asistencia a todas las clases y reuniones organizadas.
 
+
 ## Vergara Garrido, Ramón:
+
+Durante este tiempo he sido el responsable de grabar los videos que se han publicado en redes sociales y también de editarlos para adaptarlos al contenido que queríamos transmitir. Colaboré en la creación del video de la demo donde Sorpresín habla y explica el funcionamiento del proyecto. Además, he seguido corrigiendo errores y mejorando detalles que han ido apareciendo a lo largo del desarrollo.
 
 
 # World Project Launch (#WPL)
