@@ -74,7 +74,8 @@ En este apartado se presenta una tabla con todos los datos necesarios para lleva
 
 
 # 2. Casos de uso
-A continuación listamos los casos de uso desarrollados en nuestro sistema y proporcionamos una guía paso a paso para que los puedan probar. Una vez en nuestra aplicación, encontrará una página principal informativa. Pulse sobre el botón "Comenzar" en la parte superior derecha.
+A continuación listamos los casos de uso desarrollados en nuestro sistema y proporcionamos una guía paso a paso para que los puedan probar. En esta fase del proyecto, con la aplicación casi terminada, nos hemos centrado en mejorar la apariencia de la página informativa y la principal de la aplicación.
+Una vez está en nuestra aplicación, encontrará una página informativa. Pulse sobre el botón "Comenzar" en la parte central de la pantalla.
 
 ## Identificación de usuario
 
@@ -188,4 +189,4 @@ Si inicias sesión como un usuario administrador, en la página principal de la 
 
 # 4. Demo de la aplicación
 
-Enlace al vídeo de la demo en formato .mp4: [\[Enlace a la demo\]](https://drive.google.com/file/d/1CVfznMEtAUXETZ83HgVxtZcD6xQV9SoD/view?usp=drive_link)
+Enlace al vídeo de la demo en formato .mp4: [\[Enlace a la demo\]](https://drive.google.com/file/d/1RVxknfgoD7kwMT5-8wyLDpwk_Bkt7Q43/view?usp=drive_link)
