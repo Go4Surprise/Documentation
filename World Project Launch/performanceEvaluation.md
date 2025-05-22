@@ -41,7 +41,7 @@
 
 # Evaluación de desempeño individual
 
-**Entregable**: PPL
+**Entregable**: WPL
 
 Resumen
 
@@ -54,21 +54,21 @@ En este documento se recoge la contribución individual de cada miembro del equi
 |  | **Agreed Individual Performance Evaluation** |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Student** | **#DP1** | **#S1** | **#S2** | **#S3** | **#PPL** | **#WPL** | **Total** | **Weight** |
-| Abouri, Mohamed | 9.33 | 8.5 | 9.93 | 8.57 | 9.27 |  |  |  |
-| Astudillo, Mario | 9.75 | 8.64 | 9.86 | 9.86 | 9.91 |  |  |  |
-| Barrancos, María | 9.25 | 7.21 | 9.79 | 9.5 | 9.91 |  |  |  |
-| Cabello, Rafael | 9.67 | 8.57 | 9.93 | 9.86 | 9.91 |  |  |  |
-| Delgado, David | 9.75 | 9.64 | 10 | 9.86 | 9.82 |  |  |  |
-| Domínguez, Gonzalo | 9.42 | 8.29 | 9.86 | 8.93 | 9.27 |  |  |  |
-| Mesa, Virginia | 9.83 | 9.29 | 9.93 | 9.93 | 9.91 |  |  |  |
-| Miret, José Manuel | 9.92 | 9.93 | 10 | 10 | 10 |  |  |  |
-| Nicolade, Alejandro | 9.5 | 8.57 | 9.86 | 9.64 | 9.82 |  |  |  |
-| Palacios, Manuel | 9.75 | 8.71 | 10 | 9.93 | 10 |  |  |  |
-| Rodrígez, Pablo | 9.92 | 9.71 | 10 | 9.93 | 9.91 |  |  |  |
-| Romero, Rubén | 9.59 | 8.29 | 9.86 | 9.79 | 9.82 |  |  |  |
-| Sánchez, Paula | 9.83 | 9.57 | 9.86 | 9.93 | 10 |  |  |  |
-| Vergara, Ramón | 9.33 | 9.00 | 9.86 | 9.86 | 10 |  |  |  |
-| **Total** | 144.34 | 128.78 | 148.1 | 137,82 | 137,55 |  |  |  |
+| Abouri, Mohamed | 9.33 | 8.5 | 9.93 | 8.57 | 9.27 | 10 | 55.6 | 92.67% |
+| Astudillo, Mario | 9.75 | 8.64 | 9.86 | 9.86 | 9.91 | 10 | 58.02 | 96.70% |
+| Barrancos, María | 9.25 | 7.21 | 9.79 | 9.5 | 9.91 | 10 | 55.66 | 92.77% |
+| Cabello, Rafael | 9.67 | 8.57 | 9.93 | 9.86 | 9.91 | 10 | 57.94 | 96.57% |
+| Delgado, David | 9.75 | 9.64 | 10 | 9.86 | 9.82 | 9.90 | 58.97 | 98.28% |
+| Domínguez, Gonzalo | 9.42 | 8.29 | 9.86 | 8.93 | 9.27 | 9.00 | 54.77 | 91.28% |
+| Mesa, Virginia | 9.83 | 9.29 | 9.93 | 9.93 | 9.91 | 10 | 58.89 | 98.15% |
+| Miret, José Manuel | 9.92 | 9.93 | 10 | 10 | 10 | 10 | 59.85 | 99.75% |
+| Nicolade, Alejandro | 9.5 | 8.57 | 9.86 | 9.64 | 9.82 | 9.70 | 57.09 | 95.15% |
+| Palacios, Manuel | 9.75 | 8.71 | 10 | 9.93 | 10 | 10 | 58.39 | 97.32% |
+| Rodrígez, Pablo | 9.92 | 9.71 | 10 | 9.93 | 9.91 | 10 | 59.47 | 99.12% |
+| Romero, Rubén | 9.59 | 8.29 | 9.86 | 9.79 | 9.82 | 9.90 | 57.25 | 95.42% |
+| Sánchez, Paula | 9.83 | 9.57 | 9.86 | 9.93 | 10 | 10 | 59.19 | 98.65% |
+| Vergara, Ramón | 9.33 | 9.00 | 9.86 | 9.86 | 10 | 9.60 | 57.65 | 96.08% |
+| **Total** | 144.34 | 128.78 | 148.1 | 137.82 | 137.55 | 138.1 | 810.74 | 96.51% |
 
 ## 1.2. Cálculo
 
@@ -612,7 +612,7 @@ Durante este tiempo he sido el responsable de grabar los videos que se han publi
 
 
 ## Miret Martín, José Manuel:
-
+Para esta fase del proyecto, mi contribución al proyecto ha sido: Elaborar los guiones para algunos anuncios y videos para redes sociales, gestionar las redes sociales durante el WPL de cuando subir video y de que videos/publicaciones subir, dar nuevas ideas para las redes sociales, editar videos, organizar el equipo como project manager, elaborar la presentación, añadir la información a la BCC incluyendo lo de la semana 11, añadir información en la BCC común de todos los grupos, distribuir las tareas a realizar en esta fase, ayudar a elaborar la planificación de marketing, elaborar el KbReport y elaborar junto con Ramón Vergara el WPL Promotion Slides.
 
 ## Nicolalde Bravo, Alejandro:
 
