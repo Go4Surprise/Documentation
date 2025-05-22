@@ -136,7 +136,7 @@ política de privacidad y condiciones de uso y pulsar en el botón azul "Registr
 
 ### 7. **Gestión de mis reservas (implementado en Sprint 3):**
 - En la parte superior de la pantalla principal aparecerá cuántos días quedan para su próxima experiencia con nosotros.
-- Si quiere consultar información sobre sus reservas, debe navegar hacia la sección de "Reservas" en la [gestión del perfil](#4-gestión-del-perfil-implementado-en-sprint-3).
+- Si quiere consultar información sobre sus reservas, debe navegar hacia la sección de "Reservas" en la [gestión del perfil](#4-gestión-del-perfil-implementado-en-sprint-3). También se ha añadido un botón en barra superior de la pantalla principal. El botón es "Mis Reservas", en azul.
 - En esta pantalla podrá visualizar los detalles de sus reservas activas, pasadas y canceladas.
 - Puede cancelar su reserva pulsando en el botón rojo "Cancelar" de cada reserva, y a continuación pulsando sobre el botón rojo "Sí". Si comprueba su correo, le habremos enviado un email confirmando su cancelación.
 - Puede añadir la experiencia a Google Calendar pulsando el botón azul "Añadir a Google Calendar".
