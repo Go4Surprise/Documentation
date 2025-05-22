@@ -612,7 +612,7 @@ Participación en el último sprint
     - Adaptación del contenido a cada plataforma.
 
 ## Cabello Ranea, Rafael:
-
+En esta entrega me he encargado nuevamente del despliegue de la aplicación. También he revisado y resuelto los conflictos de los cambios del equipo en el código, y realizado los últimos errores que han aparecido. He asistido a todas las clases y reuniones.
 
 ## Delgado Pallares, David
 
@@ -623,7 +623,7 @@ He revisado que la aplicación funciona correctamente y que no hay ningún error
 Además, he ayudado a gestionar las redes sociales realizando un vídeo de mi experiencia con la aplicación, tanto grabando la experiencia como editando el vídeo para posteriormente subirlo a las redes sociales.
 
 ## Domínguez Moreno, Gonzalo
-
+Durante esta entrega he revisado pull requests de otros compañeros en el repositorio del código de la aplicación.
 
 ## Mesa Pérez, Virginia:
 
@@ -667,4 +667,4 @@ Durante esta última fase del proyecto, mi contribución principal ha sido:
 - Apoyo en la elaboración de las presentaciones de esta fase.
 
 ## Vergara Garrido, Ramón:
-
+Durante este sprint he colaborado en la creación, edición y organización de varios vídeos, así como en la corrección de errores en materiales ya realizados para mejorar su calidad visual de cara al público. También he diseñado y desarrollado paneles publicitarios para las pantallas de la universidad, cuidando tanto el mensaje como el diseño. Además, he elaborado algunos carteles impresos con fines informativos y promocionales, contribuyendo así a una comunicación más clara y atractiva.
