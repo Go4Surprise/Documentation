@@ -75,7 +75,7 @@ En este apartado se presenta una tabla con todos los datos necesarios para lleva
 
 
 # 2. Casos de uso
-A continuación listamos los casos de uso desarrollados en nuestro sistema y proporcionamos una guía paso a paso para que los puedan probar. En esta fase del proyecto, con la aplicación casi terminada, nos hemos centrado en mejorar la apariencia de la página informativa y la principal de la aplicación, así como solucionar algunos bugs.
+A continuación listamos los casos de uso desarrollados en nuestro sistema y proporcionamos una guía paso a paso para que los puedan probar. En esta fase del proyecto, con la aplicación casi terminada, nos hemos centrado en solucionar algunos bugs de la aplicación.
 Una vez está en nuestra aplicación, encontrará una página informativa. Pulse sobre el botón "Comenzar" en la parte central de la pantalla.
 
 ## Identificación de usuario
@@ -88,7 +88,6 @@ política de privacidad y condiciones de uso y pulsar en el botón azul "Registr
 - Antes de iniciar sesión, deberá verificar su correo electrónico, para ello, vaya a su bandeja de correo y pulse sobre el botón "Verificar mi correo" en el email que le hemos enviado. (Compruebe la bandeja de Spam)
 - Si no ha habido errores, deberá ver una pantalla verificando su registro. Para continuar a nuestra aplicación, pulse sobre el botón azul "Continuar".
 - Al ser su primera vez en la aplicación, deberá contestar un rápido cuestionario para conocer sus preferencias. [Punto 3](#3-selección-de-preferencias-implementado-en-sprint-3)
-- Registro con Google: no implementado al completo.
 
 
 ### 2. **Inicio de sesión: (implementado en Sprint 1)**
@@ -109,7 +108,7 @@ política de privacidad y condiciones de uso y pulsar en el botón azul "Registr
 - Si pulsa sobre el botón "Cambiar contraseña", podrá modificar la contraseña de su cuenta. Tendrá que introducir su contraseña actual y la nueva contraseña. Para confirmar los cambios deberá pulsar sobre le botón azul "Guardar". Si no quiere confirmar los cambios, pulse el botón rojo "Cancelar".
 - Si pulsa sobre el botón "Reservas", podrá ver las reservas que ha hecho en nuestra aplicación.
 - Si pulsa sobre el botón rojo "Cerrar sesión", será redirigido a la pantalla de inicio y se habrá cerrado su sesión en la aplicación.
-- Eliminar cuenta: no implementado al completo
+- Si quiere eliminar su cuenta de nuestra aplicación, debe pulsar sobre el botón rojo "Eliminar cuenta", y en la pestaña que se abre, pulsa sobre el botón rojo "Eliminar". Si todo ha ido bien, deberá ver un mensaje de éxito y será redirigido a la pantalla de inicio de sesión.
 
 
 ### 5. **He olvidado mi contraseña (implementado en Sprint 2):**
@@ -136,7 +135,7 @@ política de privacidad y condiciones de uso y pulsar en el botón azul "Registr
 
 ### 7. **Gestión de mis reservas (implementado en Sprint 3):**
 - En la parte superior de la pantalla principal aparecerá cuántos días quedan para su próxima experiencia con nosotros.
-- Si quiere consultar información sobre sus reservas, debe navegar hacia la sección de "Reservas" en la [gestión del perfil](#4-gestión-del-perfil-implementado-en-sprint-3). También se ha añadido un botón en barra superior de la pantalla principal. El botón es "Mis Reservas", en azul.
+- Si quiere consultar información sobre sus reservas, debe navegar hacia la sección de "Reservas" en la [gestión del perfil](#4-gestión-del-perfil-implementado-en-sprint-3). También se ha añadido un botón azul "Mis Reservas" en la barra superior de la pantalla principal que le llevará a la misma sección.
 - En esta pantalla podrá visualizar los detalles de sus reservas activas, pasadas y canceladas.
 - Puede cancelar su reserva pulsando en el botón rojo "Cancelar" de cada reserva, y a continuación pulsando sobre el botón rojo "Sí". Si comprueba su correo, le habremos enviado un email confirmando su cancelación.
 - Puede añadir la experiencia a Google Calendar pulsando el botón azul "Añadir a Google Calendar".
