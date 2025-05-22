@@ -65,7 +65,7 @@ En este apartado se presenta una tabla con todos los datos necesarios para lleva
 | Número de tarjeta de la pasarela de pago | 4242 4242 4242 4242 (fecha de caducidad y CVV aleatorios) |
 | Correo electrónico PayPal | sb-g9ols39719922@personal.example.com |
 | Contraseña PayPal | ,TqB5-:n |
-| Url de la plataforma desplegada  | https://ppl-go4-frontend-dot-ispp-2425-g10.ew.r.appspot.com/ |
+| Url de la plataforma desplegada  | https://wpl-go4-frontend-dot-ispp-2425-g10.ew.r.appspot.com/ |
 | Url del repositorio de Github de código | https://github.com/Go4Surprise/Go4Surprise |
 | Url del repositorio de Github de documentación  | https://github.com/Go4Surprise/Documentation |
 | Url del la herramienta de gestión del tiempo | https://app.timecamp.com/ |
@@ -141,7 +141,7 @@ política de privacidad y condiciones de uso y pulsar en el botón azul "Registr
 - Puede cancelar su reserva pulsando en el botón rojo "Cancelar" de cada reserva, y a continuación pulsando sobre el botón rojo "Sí". Si comprueba su correo, le habremos enviado un email confirmando su cancelación.
 - Puede añadir la experiencia a Google Calendar pulsando el botón azul "Añadir a Google Calendar".
 
-Para las reservas de dentro de 48 horas, se enviará un mensaje al correo elctrónico asociado a su cuenta con una pista sobre la experiencia. Cuando queden 24 horas, se enviará un mensaje con los detalles de la experiencia al completo. Los correos electrónicos se enviarán automáticamente a las 08:00 a.m.
+Para las reservas de dentro de 48 horas, se enviará un mensaje al correo electrónico asociado a su cuenta con una pista sobre la experiencia. Cuando queden 24 horas, se enviará un mensaje con los detalles de la experiencia al completo. Los correos electrónicos se enviarán automáticamente a las 08:00 a.m.
 
 
 ### 8. **Sistema de reseñas (implementado en el Sprint 3):**
@@ -189,4 +189,4 @@ Si inicias sesión como un usuario administrador, en la página principal de la 
 
 # 4. Demo de la aplicación
 
-Enlace al vídeo de la demo en formato .mp4: [\[Enlace a la demo\]](https://drive.google.com/file/d/1RVxknfgoD7kwMT5-8wyLDpwk_Bkt7Q43/view?usp=drive_link)
+Enlace al vídeo de la demo en formato .mp4: [\[Enlace a la demo\]](https://drive.google.com/file/d/17E0YM4ZIzhX12B0p0IXeyFHnJaA-hZuP/view?usp=sharing)
