@@ -592,30 +592,49 @@ Durante este tiempo he sido el responsable de grabar los videos que se han publi
 
 ## Abouri, Mohamed:
 
+Mi contribución durante este Sprint ha sido principalmente la revisión de la aplicación en su última fase para asegurar su correcto funcionamiento en despliegue.
+
+También, he asistido a todas las reuniones y clases
 
 ## Astudillo Fierro, Mario:
 
+Durante la fase final de este proyecto he estado trabajando en la presentación final del WPL. Gestión de las métricas de RRSS mediante metricool, edición de 1 video y finalmente la participación en reuniones y clases que ha habido
 
 ## Barrancos Márquez, María
 
+Participación en el último sprint
+
+- Asistencia y participación en clase:
+    - Presencia en  las sesiones.
+    - Participación activa en actividades y discusiones grupales.
+- Edición y análisis de video (Instagram y TikTok):
+    - Selección y montaje de clips para redes sociales.
+    - Adaptación del contenido a cada plataforma.
 
 ## Cabello Ranea, Rafael:
 
 
 ## Delgado Pallares, David
 
+Para este entregable, he ayudado a realizar la presentación final, en concreto a realizar el gif de dramatización inicial para hacerlo más real, añadiendo un fondo real. He ayudado al project manager a gestionar el equipo y a realizar la entrega.
+
+He revisado que la aplicación funciona correctamente y que no hay ningún error previo a la presentación final del proyecto.
+
+Además, he ayudado a gestionar las redes sociales realizando un vídeo de mi experiencia con la aplicación, tanto grabando la experiencia como editando el vídeo para posteriormente subirlo a las redes sociales.
 
 ## Domínguez Moreno, Gonzalo
 
 
 ## Mesa Pérez, Virginia:
 
+Mi aporte en esta entrega ha sido ayudar en redes sociales y en la presnetación del WPL. Además de hacer las pruebas de sonido para la presentación final. 
 
 ## Miret Martín, José Manuel:
 Para esta fase del proyecto, mi contribución al proyecto ha sido: Elaborar los guiones para algunos anuncios y videos para redes sociales, gestionar las redes sociales durante el WPL de cuando subir video y de que videos/publicaciones subir, dar nuevas ideas para las redes sociales, editar videos, organizar el equipo como project manager, elaborar la presentación, añadir la información a la BCC incluyendo lo de la semana 11, añadir información en la BCC común de todos los grupos, distribuir las tareas a realizar en esta fase, ayudar a elaborar la planificación de marketing, elaborar el KbReport y elaborar junto con Ramón Vergara el WPL Promotion Slides.
 
 ## Nicolalde Bravo, Alejandro:
 
+Durante la semana del World Project Launch, he centrado mi trabajo en mejorar el flujo de pagos de nuestro sistema de reservas y en enriquecer la experiencia del usuario en la landing page. En el ámbito de backend, he implementado la validación del pago de reservas mediante la integración con Stripe, añadiendo un atributo booleano paid a la entidad Booking, el cual se actualiza automáticamente a true cuando se recibe correctamente un evento checkout.session.completed a través de un webhook. Además, para gestionar posibles errores en el proceso de pago, he desarrollado un componente en la página principal que notifica al usuario si tiene alguna reserva pendiente de pago. Complementariamente, en la sección “Mis reservas”, ahora se muestra una categoría adicional llamada “Pendientes de pago” —visible solo cuando existen reservas no abonadas— que permite al usuario completar el proceso de pago de forma sencilla. Finalmente, he contribuido a mejorar nuestra landing page integrando vídeos de nuestras redes sociales, aportando dinamismo y reforzando la identidad visual del proyecto.
 
 ## Palacios Pineda, Manuel:
 
@@ -631,12 +650,21 @@ Mi contribución al proyecto en la fase “World Project Launch” se ha basado 
 
 ## Rodríguez, Pablo:
 
+Durante este último sprint mi contribución se ha centrado en perfeccionar nuestra presentación de cara a un WPL perfecto. También he colaborado en la creación de contenidos para redes sociales
 
 ## Romero, Rubén:
 
+Durante este último sprint, mi contribución principal se ha centrado en la preparación de la presentación final del World Project Launch. Además de participar en tareas sobre marketing y redes sociales.
 
 ## Sanchez, Paula:
 
+Durante esta última fase del proyecto, mi contribución principal ha sido:
+
+- Publicaciones de Instagram, incluyendo la creación de las historias creativas. Creación y publicación del cartel de lanzamiento.
+- Publicación de la mayoría del contenido en YouTube y algunas publicaciones en TikTok.
+- Probar app desplegada.
+- Asistencia a todas las reuniones y clases.
+- Apoyo en la elaboración de las presentaciones de esta fase.
 
 ## Vergara Garrido, Ramón:
 
