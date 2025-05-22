@@ -617,7 +617,16 @@ Durante este tiempo he sido el responsable de grabar los videos que se han publi
 ## Nicolalde Bravo, Alejandro:
 
 
-## Palacios, Manuel:
+## Palacios Pineda, Manuel:
+
+Mi contribución al proyecto en la fase “World Project Launch” se ha basado principalmente en corregir fallos de la aplicación reportados por los usuarios piloto o los miembros del equipo:
+
+- He añadido un botón a 'Mis Reservas' en la página de inicio.
+- He solucionado la funcionalidad de eliminar cuenta, y he añadido un mensaje de éxito tras borrar el usuario.
+- He añadido un mensaje de éxito tras completar el registro de un nuevo usuario.
+- He sincronizado la página de información inicial con la landing page.
+- He creado una guía detallada de cómo revisar nuestro software acompañada de los datos necesarios para dicha revisión.
+- He asistido a todas las clases y reuniones organizadas.
 
 
 ## Rodríguez, Pablo:
